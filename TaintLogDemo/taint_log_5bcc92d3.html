@@ -1,0 +1,181 @@
+<html lang="zh-cn">
+<meta charset="utf-8" />
+<title> PyTaintAnalyser Taint Log </title>
+
+<style type = "text/css">
+table.dataintable {
+	font-family: monospace;
+	margin-top:15px;
+	border-collapse:collapse;
+	border:1px solid #aaa;
+	width:100%;
+}
+
+table.dataintable th {
+	vertical-align:baseline;
+	padding:5px 15px 5px 6px;
+	background-color:#3F3F3F;
+	border:1px solid #3F3F3F;
+	text-align:left;
+	color:#fff;
+}
+
+table.dataintable td {
+	vertical-align:text-top;
+	padding:6px 15px 6px 6px;
+	border:1px solid #aaa;
+	word-break: break-all;
+}
+
+table.dataintable tr:nth-child(odd) {
+	background-color:#F5F5F5;
+}
+
+table.dataintable tr:nth-child(even) {
+	background-color:#fff;
+}
+
+table.dataintable pre {
+	width:auto;
+	margin:0;
+	padding:0;
+	border:0;
+	background-color:transparent;
+}
+
+table.dataintable p {margin:0 0 2px 0;}
+
+div#maincontent table.dataintable ul, div#maincontent table.dataintable li {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+table.dataintable td em
+{
+	color:#0000ff;
+	font-weight:normal;
+}
+	
+table.dataintable .table_value {color:#0F93D2;}
+</style><table class = "dataintable">
+
+<tr>
+<th style="width:8%">Type</th>
+<th style="width:13.5%">TaintSrc</th>
+<th style="width:13.5%">TaintDst</th>
+<th style="width:40%">TaintExpr</th>
+<th style="width:25%">TaintOper</th>
+</tr>
+<tr style="color:green;font-weight:bold;">
+<td>Taint Memory</td>
+<td>/</td>
+<td>[0x86fdc900:0x86fdcb2c]</td>
+<td>&lt;BV4456 TAINT_pool-hole_0_0_512 .. TAINT_pool-hole_64_1_512 .. TAINT_pool-hole_128_2_512 .. TAINT_pool-hole_192_3_512 .. TAINT_pool-hole_256_4_512 .. TAINT_pool-hole_320_5_512 .. TAINT_pool-hole_384_6_512 .. TAINT_pool-hole_448_7_512 .. TAINT_pool-hole_512_8_360&gt;</td>
+<td>manually Code: 0x83d6da97 pop ebp<br>rrid:0x41dfdd1b9 real_id:0x403efe9ab</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Memory</td>
+<td>/</td>
+<td>[0x86fdc900:0x86fdc93b]</td>
+<td>&lt;BV480 0x1c000000534353494449534b3c00000001051b00000000001102000000020000000101000000ec000000000000000000000000000000000000000000&gt;</td>
+<td>Code: 0x83c7f973 rep movsd dword ptr es:[edi], dword ptr [esi]<br>rrid:0x41dfdd1e5 real_id:0x403efe9c9</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>[0x86fdc900:0x86fdc9ff]<br>[0x86fdca00:0x86fdcaff]<br>[0x86fdcb00:0x86fdcb2b]<br></td>
+<td>[0x86fdcb50:0x86fdcc4f]</td>
+<td>&lt;BV2048 0x1c000000534353494449534b3c00000001051b00000000001102000000020000000001000000ec00000000004000ff3f00001000007e00023f000000#480 .. TAINT_pool-hole_0_0_512[31:0] .. TAINT_pool-hole_64_1_512 .. TAINT_pool-hole_128_2_512 .. TAINT_pool-hole_192_3_512&gt;</td>
+<td>Code: 0x83c7f973 rep movsd dword ptr es:[edi], dword ptr [esi]<br>rrid:0x41dfdf328 real_id:0x403f00851</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>[0x86fdc900:0x86fdc9ff]<br>[0x86fdca00:0x86fdcaff]<br>[0x86fdcb00:0x86fdcb2b]<br></td>
+<td>[0x86fdcc50:0x86fdcd4f]</td>
+<td>&lt;BV2048 TAINT_pool-hole_256_4_512 .. TAINT_pool-hole_320_5_512 .. TAINT_pool-hole_384_6_512 .. TAINT_pool-hole_448_7_512&gt;</td>
+<td>Code: 0x83c7f973 rep movsd dword ptr es:[edi], dword ptr [esi]<br>rrid:0x41dfdf328 real_id:0x403f00851</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>[0x86fdc900:0x86fdc9ff]<br>[0x86fdca00:0x86fdcaff]<br>[0x86fdcb00:0x86fdcb2b]<br></td>
+<td>[0x86fdcd50:0x86fdcd7b]</td>
+<td>&lt;BV352 TAINT_pool-hole_512_8_360[359:8]&gt;</td>
+<td>Code: 0x83c7f973 rep movsd dword ptr es:[edi], dword ptr [esi]<br>rrid:0x41dfdf328 real_id:0x403f00851</td>
+</tr>
+
+<tr>
+<td>Taint Reg</td>
+<td>[0x86fdcb2c:0x86fdcb2c]<br></td>
+<td>al</td>
+<td>&lt;BV8 TAINT_pool-hole_512_8_360[7:0]&gt;</td>
+<td>Code: 0x83c7faa4 mov al, byte ptr [esi]<br>rrid:0x41dfdf32b real_id:0x403f00853</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>al<br></td>
+<td>[0x86fdcd7c:0x86fdcd7c]</td>
+<td>&lt;BV8 TAINT_pool-hole_512_8_360[7:0]&gt;</td>
+<td>Code: 0x83c7faa6 mov byte ptr [edi], al<br>rrid:0x41dfdf32c real_id:0x403f00854</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Reg</td>
+<td>/</td>
+<td>eax</td>
+<td>&lt;BV32 0x31fb91c4&gt;</td>
+<td>Code: 0x83c7faa8 mov eax, dword ptr [ebp + 8]<br>rrid:0x41dfdf32d real_id:0x403f00855</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>[0x86fdcb6c:0x86fdcc6b]<br>[0x86fdcc6c:0x86fdcd6b]<br>[0x86fdcd6c:0x86fdcd7b]<br></td>
+<td>[0x86fdcdc0:0x86fdcebf]</td>
+<td>&lt;BV2048 0x20000000001000000ec00000000004000ff3f00001000007e00023f000000#256 .. TAINT_pool-hole_0_0_512[31:0] .. TAINT_pool-hole_64_1_512 .. TAINT_pool-hole_128_2_512 .. TAINT_pool-hole_192_3_512 .. TAINT_pool-hole_256_4_512[511:288]&gt;</td>
+<td>Code: 0x83c7fcb3 rep movsd dword ptr es:[edi], dword ptr [esi]<br>rrid:0x41dfdf6e9 real_id:0x403f00b8e</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>[0x86fdcb6c:0x86fdcc6b]<br>[0x86fdcc6c:0x86fdcd6b]<br>[0x86fdcd6c:0x86fdcd7b]<br></td>
+<td>[0x86fdcec0:0x86fdcfbf]</td>
+<td>&lt;BV2048 TAINT_pool-hole_256_4_512[287:0] .. TAINT_pool-hole_320_5_512 .. TAINT_pool-hole_384_6_512 .. TAINT_pool-hole_448_7_512 .. TAINT_pool-hole_512_8_360[359:136]&gt;</td>
+<td>Code: 0x83c7fcb3 rep movsd dword ptr es:[edi], dword ptr [esi]<br>rrid:0x41dfdf6e9 real_id:0x403f00b8e</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>[0x86fdcb6c:0x86fdcc6b]<br>[0x86fdcc6c:0x86fdcd6b]<br>[0x86fdcd6c:0x86fdcd7b]<br></td>
+<td>[0x86fdcfc0:0x86fdcfcf]</td>
+<td>&lt;BV128 TAINT_pool-hole_512_8_360[135:8]&gt;</td>
+<td>Code: 0x83c7fcb3 rep movsd dword ptr es:[edi], dword ptr [esi]<br>rrid:0x41dfdf6e9 real_id:0x403f00b8e</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>[0x86fdcdc0:0x86fdcebf]<br>[0x86fdcec0:0x86fdcfbf]<br>[0x86fdcfc0:0x86fdcfcf]<br></td>
+<td>[0xd5e368:0xd5e467]</td>
+<td>&lt;BV2048 0x20000000001000000ec00000000004000ff3f00001000007e00023f000000#256 .. TAINT_pool-hole_0_0_512[31:0] .. TAINT_pool-hole_64_1_512 .. TAINT_pool-hole_128_2_512 .. TAINT_pool-hole_192_3_512 .. TAINT_pool-hole_256_4_512[511:288]&gt;</td>
+<td>Code: 0x83c7f973 rep movsd dword ptr es:[edi], dword ptr [esi]<br>rrid:0x41dfdf9fa real_id:0x403f00e1b</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>[0x86fdcdc0:0x86fdcebf]<br>[0x86fdcec0:0x86fdcfbf]<br>[0x86fdcfc0:0x86fdcfcf]<br></td>
+<td>[0xd5e468:0xd5e567]</td>
+<td>&lt;BV2048 TAINT_pool-hole_256_4_512[287:0] .. TAINT_pool-hole_320_5_512 .. TAINT_pool-hole_384_6_512 .. TAINT_pool-hole_448_7_512 .. TAINT_pool-hole_512_8_360[359:136]&gt;</td>
+<td>Code: 0x83c7f973 rep movsd dword ptr es:[edi], dword ptr [esi]<br>rrid:0x41dfdf9fa real_id:0x403f00e1b</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>[0x86fdcdc0:0x86fdcebf]<br>[0x86fdcec0:0x86fdcfbf]<br>[0x86fdcfc0:0x86fdcfcf]<br></td>
+<td>[0xd5e568:0xd5e577]</td>
+<td>&lt;BV128 TAINT_pool-hole_512_8_360[135:8]&gt;</td>
+<td>Code: 0x83c7f973 rep movsd dword ptr es:[edi], dword ptr [esi]<br>rrid:0x41dfdf9fa real_id:0x403f00e1b</td>
+</tr>
+

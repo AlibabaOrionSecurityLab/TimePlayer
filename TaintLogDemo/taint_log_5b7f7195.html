@@ -1,0 +1,245 @@
+<html lang="zh-cn">
+<meta charset="utf-8" />
+<title> PyTaintAnalyser Taint Log </title>
+
+<style type = "text/css">
+table.dataintable {
+	font-family: monospace;
+	margin-top:15px;
+	border-collapse:collapse;
+	border:1px solid #aaa;
+	width:100%;
+}
+
+table.dataintable th {
+	vertical-align:baseline;
+	padding:5px 15px 5px 6px;
+	background-color:#3F3F3F;
+	border:1px solid #3F3F3F;
+	text-align:left;
+	color:#fff;
+}
+
+table.dataintable td {
+	vertical-align:text-top;
+	padding:6px 15px 6px 6px;
+	border:1px solid #aaa;
+	word-break: break-all;
+}
+
+table.dataintable tr:nth-child(odd) {
+	background-color:#F5F5F5;
+}
+
+table.dataintable tr:nth-child(even) {
+	background-color:#fff;
+}
+
+table.dataintable pre {
+	width:auto;
+	margin:0;
+	padding:0;
+	border:0;
+	background-color:transparent;
+}
+
+table.dataintable p {margin:0 0 2px 0;}
+
+div#maincontent table.dataintable ul, div#maincontent table.dataintable li {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+table.dataintable td em
+{
+	color:#0000ff;
+	font-weight:normal;
+}
+	
+table.dataintable .table_value {color:#0F93D2;}
+</style><table class = "dataintable">
+
+<tr>
+<th style="width:8%">Type</th>
+<th style="width:13.5%">TaintSrc</th>
+<th style="width:13.5%">TaintDst</th>
+<th style="width:40%">TaintExpr</th>
+<th style="width:25%">TaintOper</th>
+</tr>
+<tr style="color:green;font-weight:bold;">
+<td>Taint Memory</td>
+<td>/</td>
+<td>[0x9c233d34:0x9c233d7b]</td>
+<td>&lt;BV576 TAINT_stackhole_0_0_512 .. TAINT_stackhole_64_1_64&gt;</td>
+<td>manually Code: 0x83c4f350 sub esp, 0x48<br>rrid:0x37698e10c real_id:0x1178959</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Memory</td>
+<td>/</td>
+<td>[0x9c233d78:0x9c233d7b]</td>
+<td>&lt;BV32 0x143&gt;</td>
+<td>Code: 0x83c4f38c mov dword ptr [ebp + 0x44], eax<br>rrid:0x37698e113 real_id:0x1178960</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Memory</td>
+<td>/</td>
+<td>[0x9c233d70:0x9c233d73]</td>
+<td>&lt;BV32 0x16fff70&gt;</td>
+<td>Code: 0x83c4f38f mov dword ptr [ebp + 0x3c], edx<br>rrid:0x37698e114 real_id:0x1178961</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Memory</td>
+<td>/</td>
+<td>[0x9c233d60:0x9c233d63]</td>
+<td>&lt;BV32 0x0&gt;</td>
+<td>Code: 0x83c4f512 and dword ptr [ebp + 0x2c], 0<br>rrid:0x37698e124 real_id:0x1178971</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Memory</td>
+<td>/</td>
+<td>[0x9c233d40:0x9c233d43]</td>
+<td>&lt;BV32 0x16fff70&gt;</td>
+<td>Code: 0x83c4f52c mov dword ptr [ebp + 0xc], edx<br>rrid:0x37698e12a real_id:0x1178977</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Memory</td>
+<td>/</td>
+<td>[0x9c233d3c:0x9c233d3f]</td>
+<td>&lt;BV32 0xbadb0d00&gt;</td>
+<td>Code: 0x83c4f52f mov dword ptr [ebp + 8], 0xbadb0d00<br>rrid:0x37698e12b real_id:0x1178978</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Memory</td>
+<td>/</td>
+<td>[0x9c233d34:0x9c233d37]</td>
+<td>&lt;BV32 0x16fff78&gt;</td>
+<td>Code: 0x83c4f536 mov dword ptr [ebp], ebx<br>rrid:0x37698e12c real_id:0x1178979</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Memory</td>
+<td>/</td>
+<td>[0x9c233d38:0x9c233d3b]</td>
+<td>&lt;BV32 0x77296bb4&gt;</td>
+<td>Code: 0x83c4f539 mov dword ptr [ebp + 4], edi<br>rrid:0x37698e12d real_id:0x117897a</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Memory</td>
+<td>/</td>
+<td>[0x9c233d46:0x9c233d46]</td>
+<td>&lt;BV8 0&gt;</td>
+<td>Code: 0x83c4f5d8 setne byte ptr [ebp + 0x12]<br>rrid:0x37698e420 real_id:0x1178c6b</td>
+</tr>
+
+<tr>
+<td>Taint Reg</td>
+<td>[0x9c233d64:0x9c233d65]<br></td>
+<td>eax</td>
+<td>&lt;BV32 0x0#16 .. TAINT_stackhole_0_0_512[119:112] .. TAINT_stackhole_0_0_512[127:120]&gt;</td>
+<td>Code: 0x83cc5674 movzx eax, word ptr [edi + 0x30]<br>rrid:0x37698fe7f real_id:0x117a5f9</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>eax<br></td>
+<td>[0x8ea9a9dc:0x8ea9a9df]</td>
+<td>&lt;BV32 0x0#16 .. TAINT_stackhole_0_0_512[119:112] .. TAINT_stackhole_0_0_512[127:120]&gt;</td>
+<td>Code: 0x83cc5678 mov dword ptr [esi + 0x8c], eax<br>rrid:0x37698fe80 real_id:0x117a5fa</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Reg</td>
+<td>/</td>
+<td>eax</td>
+<td>&lt;BV32 0x3b&gt;</td>
+<td>Code: 0x83cc567e movzx eax, word ptr [edi + 0x50]<br>rrid:0x37698fe81 real_id:0x117a5fb</td>
+</tr>
+
+<tr>
+<td>Taint Reg</td>
+<td>[0x9c233d68:0x9c233d69]<br></td>
+<td>eax</td>
+<td>&lt;BV32 0x0#16 .. TAINT_stackhole_0_0_512[87:80] .. TAINT_stackhole_0_0_512[95:88]&gt;</td>
+<td>Code: 0x83cc5688 movzx eax, word ptr [edi + 0x34]<br>rrid:0x37698fe83 real_id:0x117a5fd</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>eax<br></td>
+<td>[0x8ea9a9e4:0x8ea9a9e7]</td>
+<td>&lt;BV32 0x0#16 .. TAINT_stackhole_0_0_512[87:80] .. TAINT_stackhole_0_0_512[95:88]&gt;</td>
+<td>Code: 0x83cc568c mov dword ptr [esi + 0x94], eax<br>rrid:0x37698fe84 real_id:0x117a5fe</td>
+</tr>
+
+<tr>
+<td>ReTaint Reg</td>
+<td>[0x9c233d6c:0x9c233d6d]<br></td>
+<td>eax</td>
+<td>&lt;BV32 0x0#16 .. TAINT_stackhole_0_0_512[55:48] .. TAINT_stackhole_0_0_512[63:56]&gt;</td>
+<td>Code: 0x83cc5692 movzx eax, word ptr [edi + 0x38]<br>rrid:0x37698fe85 real_id:0x117a5ff</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>eax<br></td>
+<td>[0x8ea9a9e8:0x8ea9a9eb]</td>
+<td>&lt;BV32 0x0#16 .. TAINT_stackhole_0_0_512[55:48] .. TAINT_stackhole_0_0_512[63:56]&gt;</td>
+<td>Code: 0x83cc5696 mov dword ptr [esi + 0x98], eax<br>rrid:0x37698fe86 real_id:0x117a600</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Reg</td>
+<td>/</td>
+<td>eax</td>
+<td>&lt;BV32 0x10002&gt;</td>
+<td>Code: 0x83cc569c mov eax, 0x10002<br>rrid:0x37698fe87 real_id:0x117a601</td>
+</tr>
+
+<tr>
+<td>Taint Reg</td>
+<td>[0x9c233d74:0x9c233d77]<br></td>
+<td>eax</td>
+<td>&lt;BV32 TAINT_stackhole_64_1_64[39:32] .. TAINT_stackhole_64_1_64[47:40] .. TAINT_stackhole_64_1_64[55:48] .. TAINT_stackhole_64_1_64[63:56]&gt;</td>
+<td>Code: 0x83cc56c4 mov eax, dword ptr [edi + 0x40]<br>rrid:0x37698fe92 real_id:0x117a60c</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>eax<br></td>
+<td>[0x8ea9a9fc:0x8ea9a9ff]</td>
+<td>&lt;BV32 TAINT_stackhole_64_1_64[39:32] .. TAINT_stackhole_64_1_64[47:40] .. TAINT_stackhole_64_1_64[55:48] .. TAINT_stackhole_64_1_64[63:56]&gt;</td>
+<td>Code: 0x83cc56c7 mov dword ptr [esi + 0xac], eax<br>rrid:0x37698fe93 real_id:0x117a60d</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Reg</td>
+<td>/</td>
+<td>eax</td>
+<td>&lt;BV32 0x16fff70&gt;</td>
+<td>Code: 0x83cc56cd mov eax, dword ptr [edi + 0x3c]<br>rrid:0x37698fe94 real_id:0x117a60e</td>
+</tr>
+
+<tr>
+<td>Taint Reg</td>
+<td>[0x8ea9a9fc:0x8ea9a9ff]<br></td>
+<td>ecx</td>
+<td>&lt;BV32 TAINT_stackhole_64_1_64[39:32] .. TAINT_stackhole_64_1_64[47:40] .. TAINT_stackhole_64_1_64[55:48] .. TAINT_stackhole_64_1_64[63:56]&gt;</td>
+<td>Code: 0x83c93030 mov ecx, dword ptr [eax + 0xac]<br>rrid:0x376990296 real_id:0x117aa10</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>ecx<br></td>
+<td>[0x22fb40:0x22fb43]</td>
+<td>&lt;BV32 TAINT_stackhole_64_1_64[39:32] .. TAINT_stackhole_64_1_64[47:40] .. TAINT_stackhole_64_1_64[55:48] .. TAINT_stackhole_64_1_64[63:56]&gt;</td>
+<td>Code: 0x83c93036 mov dword ptr [edx + 0xac], ecx<br>rrid:0x376990297 real_id:0x117aa11</td>
+</tr>
+

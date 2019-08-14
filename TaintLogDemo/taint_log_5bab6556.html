@@ -1,0 +1,133 @@
+<html lang="zh-cn">
+<meta charset="utf-8" />
+<title> PyTaintAnalyser Taint Log </title>
+
+<style type = "text/css">
+table.dataintable {
+	font-family: monospace;
+	margin-top:15px;
+	border-collapse:collapse;
+	border:1px solid #aaa;
+	width:100%;
+}
+
+table.dataintable th {
+	vertical-align:baseline;
+	padding:5px 15px 5px 6px;
+	background-color:#3F3F3F;
+	border:1px solid #3F3F3F;
+	text-align:left;
+	color:#fff;
+}
+
+table.dataintable td {
+	vertical-align:text-top;
+	padding:6px 15px 6px 6px;
+	border:1px solid #aaa;
+	word-break: break-all;
+}
+
+table.dataintable tr:nth-child(odd) {
+	background-color:#F5F5F5;
+}
+
+table.dataintable tr:nth-child(even) {
+	background-color:#fff;
+}
+
+table.dataintable pre {
+	width:auto;
+	margin:0;
+	padding:0;
+	border:0;
+	background-color:transparent;
+}
+
+table.dataintable p {margin:0 0 2px 0;}
+
+div#maincontent table.dataintable ul, div#maincontent table.dataintable li {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+table.dataintable td em
+{
+	color:#0000ff;
+	font-weight:normal;
+}
+	
+table.dataintable .table_value {color:#0F93D2;}
+</style><table class = "dataintable">
+
+<tr>
+<th style="width:8%">Type</th>
+<th style="width:13.5%">TaintSrc</th>
+<th style="width:13.5%">TaintDst</th>
+<th style="width:40%">TaintExpr</th>
+<th style="width:25%">TaintOper</th>
+</tr>
+<tr style="color:green;font-weight:bold;">
+<td>Taint Memory</td>
+<td>/</td>
+<td>[0xa6c44000:0xa6c44fff]</td>
+<td>&lt;BV32768 TAINT_pool-hole_0_0_512 .. TAINT_pool-hole_64_1_512 .. TAINT_pool-hole_128_2_512 .. TAINT_pool-hole_192_3_512 .. TAINT_pool-hole_256_4_512 .. TAINT_pool-hole_320_5_512 .. TAINT_pool-hole_384_6_512 .. TAINT_pool-hole_448_7_512 .. TAINT_pool-hole_512_8_512 .. TAINT_pool-hole_576_9_512 .. TAINT_pool-hole_640_10_512 .. TAINT_pool-hole_704_11_512 .. TAINT_pool-hole_768_12_512 .. TAINT_pool-hole_832_13_512 .. TAINT_pool-hole_896_14_512 .. TAINT_pool-hole_960_15_512 .. TAINT_pool-hole_1024_16_512 .. TAINT_pool-hole_1088_17_512 .. TAINT_pool-hole_1152_18_512 .. TAINT_pool-hole_1216_19_512 .. TAINT_pool-hole_1280_20_512 .. TAINT_pool-hole_1344_21_512 .. TAINT_pool-hole_1408_22_512 .. TAINT_pool-hole_1472_23_512 .. TAINT_pool-hole_1536_24_512 .. TAINT_pool-hole_1600_25_512 .. TAINT_pool-hole_1664_26_512 .. TAINT_pool-hole_1728_27_512 .. TAINT_pool-hole_1792_28_512 .. TAINT_pool-hole_1856_29_512 .. TAINT_pool-hole_1920_30_512 .. TAINT_pool-hole_1984_31_512 .. TAINT_pool-hole_2048_32_512 .. TAINT_pool-hole_2112_33_512 .. TAINT_pool-hole_2176_34_512 .. TAINT_pool-hole_2240_35_512 .. TAINT_pool-hole_2304_36_512 .. TAINT_pool-hole_2368_37_512 .. TAINT_pool-hole_2432_38_512 .. TAINT_pool-hole_2496_39_512 .. TAINT_pool-hole_2560_40_512 .. TAINT_pool-hole_2624_41_512 .. TAINT_pool-hole_2688_42_512 .. TAINT_pool-hole_2752_43_512 .. TAINT_pool-hole_2816_44_512 .. TAINT_pool-hole_2880_45_512 .. TAINT_pool-hole_2944_46_512 .. TAINT_pool-hole_3008_47_512 .. TAINT_pool-hole_3072_48_512 .. TAINT_pool-hole_3136_49_512 .. TAINT_pool-hole_3200_50_512 .. TAINT_pool-hole_3264_51_512 .. TAINT_pool-hole_3328_52_512 .. TAINT_pool-hole_3392_53_512 .. TAINT_pool-hole_3456_54_512 .. TAINT_pool-hole_3520_55_512 .. TAINT_pool-hole_3584_56_512 .. TAINT_pool-hole_3648_57_512 .. TAINT_pool-hole_3712_58_512 .. TAINT_pool-hole_3776_59_512 .. TAINT_pool-hole_3840_60_512 .. TAINT_pool-hole_3904_61_512 .. TAINT_pool-hole_3968_62_512 .. TAINT_pool-hole_4032_63_512&gt;</td>
+<td>manually Code: 0x83d38a97 pop ebp<br>rrid:0x2f5bcc380 real_id:0x2e5ff4246</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Memory</td>
+<td>/</td>
+<td>[0xa6c44000:0xa6c44017]</td>
+<td>&lt;BV192 0x3c005400020000005401000034090000a003000073520500&gt;</td>
+<td>Code: 0x83e86b1e rep movsd dword ptr es:[edi], dword ptr [esi]<br>rrid:0x2f5bcc839 real_id:0x2e5ff46eb</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Memory</td>
+<td>/</td>
+<td>[0xa6c44018:0xa6c44053]</td>
+<td>&lt;BV480 0x30000000000000000000000710100000000000000000000000000000000000034f3110040ef1400fe84c876304d1700000000000000000000000000&gt;</td>
+<td>Code: 0x83c4a973 rep movsd dword ptr es:[edi], dword ptr [esi]<br>rrid:0x2f5bcc87a real_id:0x2e5ff471d</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Memory</td>
+<td>/</td>
+<td>[0xa6c44058:0xa6c4405b]</td>
+<td>&lt;BV32 0x1&gt;</td>
+<td>Code: 0x8a573130 mov dword ptr [eax], edx<br>rrid:0x2fb8df569 real_id:0x2ebb82746</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Memory</td>
+<td>/</td>
+<td>[0xa6c4405c:0xa6c4405f]</td>
+<td>&lt;BV32 0x7&gt;</td>
+<td>Code: 0x8a573130 mov dword ptr [eax], edx<br>rrid:0x2fb8df58c real_id:0x2ebb82769</td>
+</tr>
+
+<tr style="color:gray;">
+<td>UnTaint Memory</td>
+<td>/</td>
+<td>[0xa6c44060:0xa6c44063]</td>
+<td>&lt;BV32 0x0&gt;</td>
+<td>Code: 0x8a573130 mov dword ptr [eax], edx<br>rrid:0x2fb8df5af real_id:0x2ebb8278c</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>[0xa6c44018:0xa6c44063]<br></td>
+<td>[0x90c45700:0x90c4574b]</td>
+<td>&lt;BV608 0x7401000000000000000000000000000000000000000000000000000000000000740069006d00650070006c0061007900#480 .. TAINT_pool-hole_64_1_512[351:320] .. 0x10000000700000000000000#96&gt;</td>
+<td>Code: 0x83c4a973 rep movsd dword ptr es:[edi], dword ptr [esi]<br>rrid:0x2fb8dff8b real_id:0x2ebb830ff</td>
+</tr>
+
+<tr>
+<td>Taint Memory</td>
+<td>[0x90c45700:0x90c4574b]<br></td>
+<td>[0x1313b8:0x131403]</td>
+<td>&lt;BV608 0x7401000000000000000000000000000000000000000000000000000000000000740069006d00650070006c0061007900#480 .. TAINT_pool-hole_64_1_512[351:320] .. 0x10000000700000000000000#96&gt;</td>
+<td>Code: 0x83c4a973 rep movsd dword ptr es:[edi], dword ptr [esi]<br>rrid:0x2fc379a59 real_id:0x2ec5e22bc</td>
+</tr>
+
