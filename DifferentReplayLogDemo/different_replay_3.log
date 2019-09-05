@@ -1,0 +1,312 @@
+------Difference Found!------
+----padding history----
+padding,rrid:5464912057,pc:83c94c5e, sp:96bf4408,len:16
+    pc:83c94c5e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00077c5e, pid: 368, pname: csrss.exe
+
+padding,rrid:5464912394,pc:83c74838, sp:96bf447c,len:16
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464912566,pc:83c74838, sp:96bf4470,len:24
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464912872,pc:83d3b010, sp:96bf43fc,len:60
+    pc:83d3b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011e010, pid: 368, pname: csrss.exe
+
+padding,rrid:5464913074,pc:83c94c5e, sp:96bf4408,len:16
+    pc:83c94c5e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00077c5e, pid: 368, pname: csrss.exe
+
+padding,rrid:5464913403,pc:83c74838, sp:96bf447c,len:16
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464913575,pc:83c74838, sp:96bf4470,len:24
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464913911,pc:83d3b010, sp:96bf43fc,len:60
+    pc:83d3b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011e010, pid: 368, pname: csrss.exe
+
+padding,rrid:5464914113,pc:83c94c5e, sp:96bf4408,len:16
+    pc:83c94c5e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00077c5e, pid: 368, pname: csrss.exe
+
+padding,rrid:5464914446,pc:83c74838, sp:96bf447c,len:16
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464914618,pc:83c74838, sp:96bf4470,len:24
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464914991,pc:83d3b010, sp:96bf43fc,len:60
+    pc:83d3b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011e010, pid: 368, pname: csrss.exe
+
+padding,rrid:5464915193,pc:83c94c5e, sp:96bf4408,len:16
+    pc:83c94c5e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00077c5e, pid: 368, pname: csrss.exe
+
+padding,rrid:5464915524,pc:83c74838, sp:96bf447c,len:16
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464915696,pc:83c74838, sp:96bf4470,len:24
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464916002,pc:83d3b010, sp:96bf43fc,len:60
+    pc:83d3b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011e010, pid: 368, pname: csrss.exe
+
+padding,rrid:5464916204,pc:83c94c5e, sp:96bf4408,len:16
+    pc:83c94c5e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00077c5e, pid: 368, pname: csrss.exe
+
+padding,rrid:5464916533,pc:83c74838, sp:96bf447c,len:16
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464916705,pc:83c74838, sp:96bf4470,len:24
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464917041,pc:83d3b010, sp:96bf43fc,len:60
+    pc:83d3b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011e010, pid: 368, pname: csrss.exe
+
+padding,rrid:5464917243,pc:83c94c5e, sp:96bf4408,len:16
+    pc:83c94c5e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00077c5e, pid: 368, pname: csrss.exe
+
+padding,rrid:5464917576,pc:83c74838, sp:96bf447c,len:16
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464917748,pc:83c74838, sp:96bf4470,len:24
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464918108,pc:83d3b010, sp:96bf43fc,len:60
+    pc:83d3b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011e010, pid: 368, pname: csrss.exe
+
+padding,rrid:5464918310,pc:83c94c5e, sp:96bf4408,len:16
+    pc:83c94c5e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00077c5e, pid: 368, pname: csrss.exe
+
+padding,rrid:5464918641,pc:83c74838, sp:96bf447c,len:16
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464918813,pc:83c74838, sp:96bf4470,len:24
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464919471,pc:83d3b010, sp:96bf43fc,len:60
+    pc:83d3b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011e010, pid: 368, pname: csrss.exe
+
+padding,rrid:5464919673,pc:83c94c5e, sp:96bf4408,len:16
+    pc:83c94c5e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00077c5e, pid: 368, pname: csrss.exe
+
+padding,rrid:5464920003,pc:83c74838, sp:96bf447c,len:16
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464920175,pc:83c74838, sp:96bf4470,len:24
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464920775,pc:83d3b010, sp:96bf43fc,len:60
+    pc:83d3b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011e010, pid: 368, pname: csrss.exe
+
+padding,rrid:5464920977,pc:83c94c5e, sp:96bf4408,len:16
+    pc:83c94c5e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00077c5e, pid: 368, pname: csrss.exe
+
+padding,rrid:5464921316,pc:83c74838, sp:96bf447c,len:16
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464921492,pc:940f8915, sp:96bf4424,len:148
+    pc:940f8915  in module: \SystemRoot\System32\win32k.sys, base: 940f0000, offset: 00008915, pid: 368, pname: csrss.exe
+
+padding,rrid:5464921535,pc:83c520b2, sp:96bf438c,len:72
+    pc:83c520b2  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 000350b2, pid: 368, pname: csrss.exe
+
+padding,rrid:5464921577,pc:83c52592, sp:96bf4378,len:20
+    pc:83c52592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035592, pid: 368, pname: csrss.exe
+
+padding,rrid:5464922276,pc:83c74838, sp:96bf431c,len:28
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464922316,pc:83e76929, sp:96bf42d4,len:12
+    pc:83e76929  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00259929, pid: 368, pname: csrss.exe
+
+padding,rrid:5464922369,pc:83c74838, sp:96bf427c,len:28
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464922512,pc:83e4185a, sp:96bf4298,len:20
+    pc:83e4185a  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0022485a, pid: 368, pname: csrss.exe
+
+padding,rrid:5464922574,pc:83d3b00a, sp:96bf4278,len:4
+    pc:83d3b00a  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011e00a, pid: 368, pname: csrss.exe
+
+padding,rrid:5464922576,pc:83d3b010, sp:96bf423c,len:60
+    pc:83d3b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011e010, pid: 368, pname: csrss.exe
+
+padding,rrid:5464922882,pc:83e2c400, sp:96bf416c,len:356
+    pc:83e2c400  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0020f400, pid: 368, pname: csrss.exe
+
+padding,rrid:5464922940,pc:83e3479f, sp:96bf40f4,len:60
+    pc:83e3479f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0021779f, pid: 368, pname: csrss.exe
+
+padding,rrid:5464922982,pc:83e22ec7, sp:96bf40c0,len:4
+    pc:83e22ec7  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00205ec7, pid: 368, pname: csrss.exe
+
+padding,rrid:5464922983,pc:83e22eca, sp:96bf4094,len:44
+    pc:83e22eca  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00205eca, pid: 368, pname: csrss.exe
+
+padding,rrid:5464923529,pc:83e1dbfe, sp:96bf43d0,len:4
+    pc:83e1dbfe  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00200bfe, pid: 368, pname: csrss.exe
+
+padding,rrid:5464923530,pc:83e1dc01, sp:96bf43b4,len:28
+    pc:83e1dc01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00200c01, pid: 368, pname: csrss.exe
+
+padding,rrid:5464923700,pc:83c520b2, sp:96bf439c,len:72
+    pc:83c520b2  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 000350b2, pid: 368, pname: csrss.exe
+
+padding,rrid:5464923742,pc:83c52592, sp:96bf4398,len:4
+    pc:83c52592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035592, pid: 368, pname: csrss.exe
+
+padding,rrid:5464924588,pc:83e3c1bf, sp:96bf4340,len:4
+    pc:83e3c1bf  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0021f1bf, pid: 368, pname: csrss.exe
+
+padding,rrid:5464924589,pc:83e3c1c2, sp:96bf4314,len:44
+    pc:83e3c1c2  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0021f1c2, pid: 368, pname: csrss.exe
+
+padding,rrid:5464924703,pc:83e7603f, sp:96bf42f8,len:4
+    pc:83e7603f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0025903f, pid: 368, pname: csrss.exe
+
+padding,rrid:5464924704,pc:83e76042, sp:96bf42d0,len:40
+    pc:83e76042  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00259042, pid: 368, pname: csrss.exe
+
+padding,rrid:5464924727,pc:83e6797e, sp:96bf42a4,len:24
+    pc:83e6797e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0024a97e, pid: 368, pname: csrss.exe
+
+padding,rrid:5464924910,pc:83c520b2, sp:96bf438c,len:72
+    pc:83c520b2  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 000350b2, pid: 368, pname: csrss.exe
+
+padding,rrid:5464924952,pc:83c52592, sp:96bf4378,len:20
+    pc:83c52592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035592, pid: 368, pname: csrss.exe
+
+padding,rrid:5464925651,pc:83c74838, sp:96bf431c,len:28
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464925691,pc:83e76929, sp:96bf42d4,len:12
+    pc:83e76929  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00259929, pid: 368, pname: csrss.exe
+
+padding,rrid:5464925744,pc:83c74838, sp:96bf427c,len:28
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464925887,pc:83e4185a, sp:96bf4298,len:20
+    pc:83e4185a  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0022485a, pid: 368, pname: csrss.exe
+
+padding,rrid:5464925949,pc:83d3b00a, sp:96bf4278,len:4
+    pc:83d3b00a  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011e00a, pid: 368, pname: csrss.exe
+
+padding,rrid:5464925951,pc:83d3b010, sp:96bf423c,len:60
+    pc:83d3b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011e010, pid: 368, pname: csrss.exe
+
+padding,rrid:5464926257,pc:83e2c400, sp:96bf416c,len:356
+    pc:83e2c400  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0020f400, pid: 368, pname: csrss.exe
+
+padding,rrid:5464926315,pc:83e3479f, sp:96bf40f4,len:60
+    pc:83e3479f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0021779f, pid: 368, pname: csrss.exe
+
+padding,rrid:5464926357,pc:83e22ec7, sp:96bf40c0,len:4
+    pc:83e22ec7  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00205ec7, pid: 368, pname: csrss.exe
+
+padding,rrid:5464926358,pc:83e22eca, sp:96bf4094,len:44
+    pc:83e22eca  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00205eca, pid: 368, pname: csrss.exe
+
+padding,rrid:5464926904,pc:83e1dbfe, sp:96bf43d0,len:4
+    pc:83e1dbfe  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00200bfe, pid: 368, pname: csrss.exe
+
+padding,rrid:5464926905,pc:83e1dc01, sp:96bf43b4,len:28
+    pc:83e1dc01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00200c01, pid: 368, pname: csrss.exe
+
+padding,rrid:5464927075,pc:83c520b2, sp:96bf439c,len:72
+    pc:83c520b2  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 000350b2, pid: 368, pname: csrss.exe
+
+padding,rrid:5464927117,pc:83c52592, sp:96bf4398,len:4
+    pc:83c52592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035592, pid: 368, pname: csrss.exe
+
+padding,rrid:5464927963,pc:83e3c1bf, sp:96bf4340,len:4
+    pc:83e3c1bf  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0021f1bf, pid: 368, pname: csrss.exe
+
+padding,rrid:5464927964,pc:83e3c1c2, sp:96bf4314,len:44
+    pc:83e3c1c2  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0021f1c2, pid: 368, pname: csrss.exe
+
+padding,rrid:5464928078,pc:83e7603f, sp:96bf42f8,len:4
+    pc:83e7603f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0025903f, pid: 368, pname: csrss.exe
+
+padding,rrid:5464928079,pc:83e76042, sp:96bf42d0,len:40
+    pc:83e76042  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00259042, pid: 368, pname: csrss.exe
+
+padding,rrid:5464928102,pc:83e6797e, sp:96bf42a4,len:24
+    pc:83e6797e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0024a97e, pid: 368, pname: csrss.exe
+
+padding,rrid:5464928318,pc:83c78909, sp:96bf4400,len:4
+    pc:83c78909  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005b909, pid: 368, pname: csrss.exe
+
+padding,rrid:5464928319,pc:83c7890c, sp:96bf43dc,len:36
+    pc:83c7890c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005b90c, pid: 368, pname: csrss.exe
+
+padding,rrid:5464928418,pc:840310e3, sp:96bf43a8,len:12
+    pc:840310e3  in module: \SystemRoot\system32\halmacpi.dll, base: 8402c000, offset: 000050e3, pid: 368, pname: csrss.exe
+
+padding,rrid:5464928515,pc:83c74838, sp:96bf43c8,len:12
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464928557,pc:83c74838, sp:96bf4320,len:88
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464928623,pc:83c74838, sp:96bf4288,len:96
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464929031,pc:83e92113, sp:96bf4254,len:28
+    pc:83e92113  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00275113, pid: 368, pname: csrss.exe
+
+padding,rrid:5464929249,pc:83e26ab8, sp:96bf420c,len:48
+    pc:83e26ab8  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00209ab8, pid: 368, pname: csrss.exe
+
+padding,rrid:5464929283,pc:83c74838, sp:96bf41dc,len:8
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 368, pname: csrss.exe
+
+padding,rrid:5464929308,pc:83e41c49, sp:96bf41b0,len:12
+    pc:83e41c49  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00224c49, pid: 368, pname: csrss.exe
+
+padding,rrid:5464929711,pc:83c76d11, sp:96bf4250,len:28
+    pc:83c76d11  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00059d11, pid: 368, pname: csrss.exe
+
+padding,rrid:5464929824,pc:83c7532c, sp:96bf4280,len:4
+    pc:83c7532c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005832c, pid: 368, pname: csrss.exe
+
+padding,rrid:5464929825,pc:83c7532f, sp:96bf4264,len:28
+    pc:83c7532f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005832f, pid: 368, pname: csrss.exe
+
+padding,rrid:5464929898,pc:83c7a457, sp:96bf4210,len:4
+    pc:83c7a457  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005d457, pid: 368, pname: csrss.exe
+
+padding,rrid:5464929899,pc:83c7a45a, sp:96bf41ac,len:100
+    pc:83c7a45a  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005d45a, pid: 368, pname: csrss.exe
+
+padding,rrid:5464930153,pc:83c74ae1, sp:96bf42a8,len:4
+    pc:83c74ae1  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057ae1, pid: 368, pname: csrss.exe
+
+padding,rrid:5464930154,pc:83c74ae4, sp:96bf4254,len:84
+    pc:83c74ae4  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057ae4, pid: 368, pname: csrss.exe
+
+padding,rrid:5464930244,pc:83c7b3fc, sp:96bf421c,len:20
+    pc:83c7b3fc  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005e3fc, pid: 368, pname: csrss.exe
+
+padding,rrid:5464930296,pc:83c7c517, sp:96bf41e4,len:36
+    pc:83c7c517  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005f517, pid: 368, pname: csrss.exe
+
+padding,rrid:5464930348,pc:83c7c91e, sp:96bf41c8,len:4
+    pc:83c7c91e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005f91e, pid: 368, pname: csrss.exe
+
+padding,rrid:5464930349,pc:83c7c921, sp:96bf41ac,len:28
+    pc:83c7c921  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005f921, pid: 368, pname: csrss.exe
+
+padding,rrid:5464930387,pc:83c754e0, sp:96bf41c4,len:16
+    pc:83c754e0  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 000584e0, pid: 368, pname: csrss.exe
+
+padding,rrid:5464930531,pc:840310e3, sp:96a54b04,len:12
+    pc:840310e3  in module: \SystemRoot\system32\halmacpi.dll, base: 8402c000, offset: 000050e3, pid: 368, pname: csrss.exe
+
+----[A]----:
+  rr_icount:5464930705
+  pc:83c4d973  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00030973, pid: 368, pname: csrss.exe
+  addr1:0a19fe5c	value:d8 a5 e7 a3 00 00 00 00   addr2:9675cad0	value:d8 a5 e7 a3 00 00 00 00 
+----[B]----:
+  rr_icount:5464930705
+  pc:83c4d973  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00030973, pid: 368, pname: csrss.exe
+  addr1:0a19fe5c	value:aa aa aa aa 00 00 00 00   addr2:9675cad0	value:aa aa aa aa 00 00 00 00 
+A_point:1024, B_point:866
+

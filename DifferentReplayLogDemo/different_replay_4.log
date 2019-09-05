@@ -1,0 +1,394 @@
+------Difference Found!------
+----padding history----
+padding,rrid:14856013859,pc:83c4f350, sp:8ea9ad34,len:72
+    pc:83c4f350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035350, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856013912,pc:83c4f592, sp:8ea9ad20,len:20
+    pc:83c4f592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035592, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856014661,pc:83c4b580, sp:8ea9abf8,len:272
+    pc:83c4b580  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00031580, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856014760,pc:83e1abfe, sp:8ea9aba0,len:4
+    pc:83e1abfe  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00200bfe, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856014761,pc:83e1ac01, sp:8ea9ab84,len:28
+    pc:83e1ac01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00200c01, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015005,pc:8402e0e3, sp:8ea9abb0,len:12
+    pc:8402e0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 84029000, offset: 000050e3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015221,pc:83c54d95, sp:8ea9ad7c,len:4
+    pc:83c54d95  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0003ad95, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015229,pc:83c54da3, sp:8ea9ad34,len:48
+    pc:83c54da3  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0003ada3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015288,pc:83c7c3eb, sp:8ea9ad18,len:4
+    pc:83c7c3eb  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000623eb, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015289,pc:83c7c3ee, sp:8ea9acd4,len:68
+    pc:83c7c3ee  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000623ee, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015543,pc:83c7f2c7, sp:8ea9ac5c,len:72
+    pc:83c7f2c7  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000652c7, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015584,pc:83cbee19, sp:8ea9ac34,len:16
+    pc:83cbee19  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000a4e19, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015689,pc:83c8b010, sp:8ea9ac0c,len:28
+    pc:83c8b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00071010, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015825,pc:83c8a8a8, sp:8ea9abd8,len:4
+    pc:83c8a8a8  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000708a8, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015289,pc:83c7c3ee, sp:8ea9acd4,len:68
+    pc:83c7c3ee  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000623ee, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015543,pc:83c7f2c7, sp:8ea9ac5c,len:72
+    pc:83c7f2c7  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000652c7, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015584,pc:83cbee19, sp:8ea9ac34,len:16
+    pc:83cbee19  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000a4e19, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015689,pc:83c8b010, sp:8ea9ac0c,len:28
+    pc:83c8b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00071010, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015825,pc:83c8a8a8, sp:8ea9abd8,len:4
+    pc:83c8a8a8  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000708a8, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015826,pc:83c8a8ab, sp:8ea9abbc,len:28
+    pc:83c8a8ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000708ab, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015896,pc:83cb1a77, sp:8ea9ab8c,len:24
+    pc:83cb1a77  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00097a77, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856016140,pc:8402e0e3, sp:8ea9ab74,len:12
+    pc:8402e0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 84029000, offset: 000050e3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856016200,pc:83cb8a54, sp:8ea9ab74,len:36
+    pc:83cb8a54  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0009ea54, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856016294,pc:83c93984, sp:8ea9ab40,len:16
+    pc:83c93984  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00079984, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015689,pc:83c8b010, sp:8ea9ac0c,len:28
+    pc:83c8b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00071010, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015825,pc:83c8a8a8, sp:8ea9abd8,len:4
+    pc:83c8a8a8  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000708a8, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015826,pc:83c8a8ab, sp:8ea9abbc,len:28
+    pc:83c8a8ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000708ab, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856015896,pc:83cb1a77, sp:8ea9ab8c,len:24
+    pc:83cb1a77  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00097a77, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856016140,pc:8402e0e3, sp:8ea9ab74,len:12
+    pc:8402e0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 84029000, offset: 000050e3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856016200,pc:83cb8a54, sp:8ea9ab74,len:36
+    pc:83cb8a54  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0009ea54, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856016294,pc:83c93984, sp:8ea9ab40,len:16
+    pc:83c93984  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00079984, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856016398,pc:83c890cf, sp:8ea9ab14,len:12
+    pc:83c890cf  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0006f0cf, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856016526,pc:83c92c37, sp:8ea9aca4,len:20
+    pc:83c92c37  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00078c37, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856016638,pc:8402e0e3, sp:8ea9ad10,len:12
+    pc:8402e0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 84029000, offset: 000050e3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856016741,pc:83c54d95, sp:8ea9ad7c,len:4
+    pc:83c54d95  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0003ad95, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856016749,pc:83c54da3, sp:8ea9ad34,len:48
+    pc:83c54da3  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0003ada3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856016808,pc:83c7c3eb, sp:8ea9ad18,len:4
+    pc:83c7c3eb  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000623eb, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856016809,pc:83c7c3ee, sp:8ea9acd4,len:68
+    pc:83c7c3ee  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000623ee, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017063,pc:83c7f2c7, sp:8ea9ac5c,len:72
+    pc:83c7f2c7  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000652c7, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017104,pc:83cbee19, sp:8ea9ac34,len:16
+    pc:83cbee19  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000a4e19, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017209,pc:83c8b010, sp:8ea9ac0c,len:28
+    pc:83c8b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00071010, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017345,pc:83c8a8a8, sp:8ea9abd8,len:4
+    pc:83c8a8a8  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000708a8, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017346,pc:83c8a8ab, sp:8ea9abbc,len:28
+    pc:83c8a8ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000708ab, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017416,pc:83cb1a77, sp:8ea9ab8c,len:24
+    pc:83cb1a77  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00097a77, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017660,pc:8402e0e3, sp:8ea9ab74,len:12
+    pc:8402e0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 84029000, offset: 000050e3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017720,pc:83cb8a54, sp:8ea9ab74,len:36
+    pc:83cb8a54  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0009ea54, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017814,pc:83c93984, sp:8ea9ab40,len:16
+    pc:83c93984  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00079984, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017209,pc:83c8b010, sp:8ea9ac0c,len:28
+    pc:83c8b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00071010, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017345,pc:83c8a8a8, sp:8ea9abd8,len:4
+    pc:83c8a8a8  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000708a8, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017346,pc:83c8a8ab, sp:8ea9abbc,len:28
+    pc:83c8a8ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000708ab, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017416,pc:83cb1a77, sp:8ea9ab8c,len:24
+    pc:83cb1a77  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00097a77, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017660,pc:8402e0e3, sp:8ea9ab74,len:12
+    pc:8402e0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 84029000, offset: 000050e3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017720,pc:83cb8a54, sp:8ea9ab74,len:36
+    pc:83cb8a54  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0009ea54, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017814,pc:83c93984, sp:8ea9ab40,len:16
+    pc:83c93984  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00079984, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856017918,pc:83c890cf, sp:8ea9ab14,len:12
+    pc:83c890cf  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0006f0cf, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856018046,pc:83c92c37, sp:8ea9aca4,len:20
+    pc:83c92c37  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00078c37, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856018158,pc:8402e0e3, sp:8ea9ad10,len:12
+    pc:8402e0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 84029000, offset: 000050e3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856018686,pc:83c4f350, sp:8ea9ad34,len:72
+    pc:83c4f350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035350, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856018739,pc:83c4f592, sp:8ea9ad1c,len:24
+    pc:83c4f592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035592, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856019534,pc:83c71838, sp:8ea9ac1c,len:188
+    pc:83c71838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00057838, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856019830,pc:83c91c5e, sp:8ea9abd8,len:16
+    pc:83c91c5e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00077c5e, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856019897,pc:83c98c9f, sp:8ea9abc0,len:48
+    pc:83c98c9f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0007ec9f, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856019968,pc:83c8b53e, sp:8ea9aba8,len:4
+    pc:83c8b53e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0007153e, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856019969,pc:83c8b541, sp:8ea9ab6c,len:60
+    pc:83c8b541  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00071541, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856020439,pc:83c54d95, sp:8ea9ad7c,len:4
+    pc:83c54d95  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0003ad95, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856020447,pc:83c54da3, sp:8ea9ad34,len:48
+    pc:83c54da3  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0003ada3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856020506,pc:83c7c3eb, sp:8ea9ad18,len:4
+    pc:83c7c3eb  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000623eb, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856020507,pc:83c7c3ee, sp:8ea9acd4,len:68
+    pc:83c7c3ee  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000623ee, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856020587,pc:83c89b97, sp:8ea9ac8c,len:28
+    pc:83c89b97  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0006fb97, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856020638,pc:83c8efc7, sp:8ea9ac64,len:12
+    pc:83c8efc7  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00074fc7, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856020723,pc:83c92a8c, sp:8ea9ac68,len:12
+    pc:83c92a8c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00078a8c, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856020830,pc:8402e0e3, sp:8ea9ac3c,len:12
+    pc:8402e0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 84029000, offset: 000050e3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856020917,pc:83c93984, sp:8ea9ac58,len:16
+    pc:83c93984  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00079984, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856021021,pc:83c890cf, sp:8ea9ac2c,len:12
+    pc:83c890cf  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0006f0cf, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856021121,pc:83c92c37, sp:8ea9aca4,len:20
+    pc:83c92c37  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00078c37, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856021238,pc:8402e0e3, sp:8ea9ad10,len:12
+    pc:8402e0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 84029000, offset: 000050e3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856024176,pc:83c4f350, sp:8ea9ad34,len:72
+    pc:83c4f350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035350, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856024229,pc:83c4f592, sp:8ea9ad20,len:20
+    pc:83c4f592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035592, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856024978,pc:83c4b580, sp:8ea9abf8,len:272
+    pc:83c4b580  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00031580, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856025079,pc:83e1abfe, sp:8ea9aba0,len:4
+    pc:83e1abfe  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00200bfe, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856025080,pc:83e1ac01, sp:8ea9ab84,len:28
+    pc:83e1ac01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00200c01, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856027082,pc:83c4f350, sp:8ea9ad34,len:72
+    pc:83c4f350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035350, pid: 2296, pname: kernel32_winet
+
+
+padding,rrid:14856024229,pc:83c4f592, sp:8ea9ad20,len:20
+    pc:83c4f592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035592, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856024978,pc:83c4b580, sp:8ea9abf8,len:272
+    pc:83c4b580  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00031580, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856025079,pc:83e1abfe, sp:8ea9aba0,len:4
+    pc:83e1abfe  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00200bfe, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856025080,pc:83e1ac01, sp:8ea9ab84,len:28
+    pc:83e1ac01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00200c01, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856027082,pc:83c4f350, sp:8ea9ad34,len:72
+    pc:83c4f350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035350, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856027135,pc:83c4f592, sp:8ea9ad20,len:20
+    pc:83c4f592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035592, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856027884,pc:83c4b580, sp:8ea9abf8,len:272
+    pc:83c4b580  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00031580, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856029156,pc:83c4f350, sp:8ea9ad34,len:72
+    pc:83c4f350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035350, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856029209,pc:83c4f592, sp:8ea9ad20,len:20
+    pc:83c4f592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035592, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856029958,pc:83c4b580, sp:8ea9abf8,len:272
+    pc:83c4b580  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00031580, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856031230,pc:83c4f350, sp:8ea9ad34,len:72
+    pc:83c4f350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035350, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856031283,pc:83c4f592, sp:8ea9ad20,len:20
+    pc:83c4f592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035592, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856032032,pc:83c4b580, sp:8ea9abf8,len:272
+    pc:83c4b580  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00031580, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856033304,pc:83c4f350, sp:8ea9ad34,len:72
+    pc:83c4f350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035350, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856031283,pc:83c4f592, sp:8ea9ad20,len:20
+    pc:83c4f592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035592, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856032032,pc:83c4b580, sp:8ea9abf8,len:272
+    pc:83c4b580  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00031580, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856033304,pc:83c4f350, sp:8ea9ad34,len:72
+    pc:83c4f350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035350, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856033357,pc:83c4f592, sp:8ea9ad20,len:20
+    pc:83c4f592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035592, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856034106,pc:83c4b580, sp:8ea9abf8,len:272
+    pc:83c4b580  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00031580, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856035351,pc:83c54d95, sp:8ea9ad7c,len:4
+    pc:83c54d95  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0003ad95, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856035359,pc:83c54da3, sp:8ea9ad34,len:48
+    pc:83c54da3  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0003ada3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856035418,pc:83c7c3eb, sp:8ea9ad18,len:4
+    pc:83c7c3eb  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000623eb, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856035419,pc:83c7c3ee, sp:8ea9acd4,len:68
+    pc:83c7c3ee  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000623ee, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856035743,pc:83c7f2c7, sp:8ea9ac5c,len:72
+    pc:83c7f2c7  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000652c7, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856035784,pc:83cbee19, sp:8ea9ac34,len:16
+    pc:83cbee19  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000a4e19, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856035889,pc:83c8b010, sp:8ea9ac0c,len:28
+    pc:83c8b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00071010, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856036041,pc:8402e0e3, sp:8ea9abc4,len:12
+    pc:8402e0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 84029000, offset: 000050e3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856036097,pc:83cb8a54, sp:8ea9abc4,len:36
+    pc:83cb8a54  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0009ea54, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856036191,pc:83c93984, sp:8ea9ab90,len:16
+    pc:83c93984  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00079984, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856036295,pc:83c890cf, sp:8ea9ab64,len:12
+    pc:83c890cf  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0006f0cf, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856036345,pc:83ca8fe8, sp:8ea9ab34,len:12
+    pc:83ca8fe8  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0008efe8, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856036481,pc:83c92c37, sp:8ea9aca4,len:20
+    pc:83c92c37  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00078c37, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856036593,pc:8402e0e3, sp:8ea9ad10,len:12
+    pc:8402e0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 84029000, offset: 000050e3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856036721,pc:83c4f350, sp:8ea9ad34,len:72
+    pc:83c4f350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035350, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856036774,pc:83c4f592, sp:8ea9ad2c,len:8
+    pc:83c4f592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00035592, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856037543,pc:83e1abfe, sp:8ea9acd0,len:4
+    pc:83e1abfe  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00200bfe, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856037544,pc:83e1ac01, sp:8ea9acb4,len:28
+    pc:83e1ac01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00200c01, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856037614,pc:83c4b580, sp:8ea9ac48,len:140
+    pc:83c4b580  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00031580, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856037841,pc:83c7576f, sp:8ea9a94c,len:744
+    pc:83c7576f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 0005b76f, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856038173,pc:83c71838, sp:8ea9a8f0,len:52
+    pc:83c71838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00057838, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856038235,pc:83c71838, sp:8ea9a898,len:40
+    pc:83c71838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00057838, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856038512,pc:83cc5573, sp:8ea9a910,len:4
+    pc:83cc5573  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000ab573, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856038513,pc:83cc5576, sp:8ea9a8f4,len:28
+    pc:83cc5576  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 000ab576, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856038612,pc:8402e0e3, sp:8ea9a8c4,len:12
+    pc:8402e0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 84029000, offset: 000050e3, pid: 2296, pname: kernel32_winet
+
+padding,rrid:14856038697,pc:83c71838, sp:8ea9a918,len:20
+    pc:83c71838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00057838, pid: 2296, pname: kernel32_winet
+
+----[A]----:
+  rr_icount:14856038892
+  pc:83c93067  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00079067, pid: 2296, pname: kernel32_winet
+  addr1:0022eb1c        value:00 00 00 00 00 00 00 00   addr2:00000000  value:00 00 00 00 00 00 00 00
+----[B]----:
+  rr_icount:14856038892
+  pc:83c93067  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1a000, offset: 00079067, pid: 2296, pname: kernel32_winet
+  addr1:0022eb1c        value:aa aa 00 00 00 00 00 00   addr2:00000000  value:00 00 00 00 00 00 00 00
+A_point:1024, B_point:50
+------Difference Found!------

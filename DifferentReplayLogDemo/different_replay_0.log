@@ -1,0 +1,312 @@
+------Difference Found!------
+----padding history----
+padding,rrid:6646278896,pc:83e9403f, sp:97253c90,len:4
+    pc:83e9403f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0025903f, pid: 448, pname: services.exe
+
+padding,rrid:6646278897,pc:83e94042, sp:97253c68,len:40
+    pc:83e94042  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00259042, pid: 448, pname: services.exe
+
+padding,rrid:6646278920,pc:83e8597e, sp:97253c3c,len:24
+    pc:83e8597e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0024a97e, pid: 448, pname: services.exe
+
+padding,rrid:6646279167,pc:83c70350, sp:97253d34,len:72
+    pc:83c70350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035350, pid: 448, pname: services.exe
+
+padding,rrid:6646279220,pc:83c70592, sp:97253d30,len:4
+    pc:83c70592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035592, pid: 448, pname: services.exe
+
+padding,rrid:6646280057,pc:83e5a1bf, sp:97253cd8,len:4
+    pc:83e5a1bf  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0021f1bf, pid: 448, pname: services.exe
+
+padding,rrid:6646280058,pc:83e5a1c2, sp:97253cac,len:44
+    pc:83e5a1c2  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0021f1c2, pid: 448, pname: services.exe
+
+padding,rrid:6646280175,pc:83e9403f, sp:97253c90,len:4
+    pc:83e9403f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0025903f, pid: 448, pname: services.exe
+
+padding,rrid:6646280176,pc:83e94042, sp:97253c68,len:40
+    pc:83e94042  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00259042, pid: 448, pname: services.exe
+
+padding,rrid:6646280219,pc:83e8597e, sp:97253c3c,len:24
+    pc:83e8597e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0024a97e, pid: 448, pname: services.exe
+
+padding,rrid:6646280520,pc:83c70350, sp:97253d34,len:72
+    pc:83c70350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035350, pid: 448, pname: services.exe
+
+padding,rrid:6646280573,pc:83c70592, sp:97253d28,len:12
+    pc:83c70592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035592, pid: 448, pname: services.exe
+
+padding,rrid:6646281320,pc:83c92838, sp:97253cf4,len:28
+    pc:83c92838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00057838, pid: 448, pname: services.exe
+
+padding,rrid:6646281381,pc:83e3bc01, sp:97253c84,len:28
+    pc:83e3bc01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00200c01, pid: 448, pname: services.exe
+
+padding,rrid:6646281609,pc:83c94d11, sp:97253c6c,len:28
+    pc:83c94d11  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00059d11, pid: 448, pname: services.exe
+
+padding,rrid:6646281727,pc:83c9332f, sp:97253c84,len:28
+    pc:83c9332f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005832f, pid: 448, pname: services.exe
+
+padding,rrid:6646281800,pc:83c98457, sp:97253c30,len:4
+    pc:83c98457  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005d457, pid: 448, pname: services.exe
+
+padding,rrid:6646281801,pc:83c9845a, sp:97253bcc,len:100
+    pc:83c9845a  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005d45a, pid: 448, pname: services.exe
+
+padding,rrid:6646282028,pc:83c0a0e3, sp:97253c54,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 448, pname: services.exe
+
+padding,rrid:6646283844,pc:83c70350, sp:97253d34,len:72
+    pc:83c70350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035350, pid: 448, pname: services.exe
+
+padding,rrid:6646283897,pc:83c70592, sp:97253d14,len:32
+    pc:83c70592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035592, pid: 448, pname: services.exe
+
+padding,rrid:6646284644,pc:83e8df25, sp:97253d08,len:4
+    pc:83e8df25  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00252f25, pid: 448, pname: services.exe
+
+padding,rrid:6646284645,pc:83e8df28, sp:97253cdc,len:44
+    pc:83e8df28  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00252f28, pid: 448, pname: services.exe
+
+padding,rrid:6646284691,pc:83e3bbfe, sp:97253c88,len:4
+    pc:83e3bbfe  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00200bfe, pid: 448, pname: services.exe
+
+padding,rrid:6646284692,pc:83e3bc01, sp:97253c6c,len:28
+    pc:83e3bc01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00200c01, pid: 448, pname: services.exe
+
+padding,rrid:6646284854,pc:83c92838, sp:97253c48,len:96
+    pc:83c92838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00057838, pid: 448, pname: services.exe
+
+padding,rrid:6646285008,pc:83e4bece, sp:97253c0c,len:20
+    pc:83e4bece  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00210ece, pid: 448, pname: services.exe
+
+padding,rrid:6646285279,pc:83e88f9c, sp:97253c14,len:28
+    pc:83e88f9c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0024df9c, pid: 448, pname: services.exe
+
+padding,rrid:6646285448,pc:83c92838, sp:97253be4,len:8
+    pc:83c92838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00057838, pid: 448, pname: services.exe
+
+padding,rrid:6646285473,pc:83e5fc49, sp:97253bb8,len:12
+    pc:83e5fc49  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00224c49, pid: 448, pname: services.exe
+
+padding,rrid:6646285672,pc:83c94d11, sp:97253b90,len:28
+    pc:83c94d11  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00059d11, pid: 448, pname: services.exe
+
+padding,rrid:6646285785,pc:83c9332c, sp:97253bc0,len:4
+    pc:83c9332c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005832c, pid: 448, pname: services.exe
+
+padding,rrid:6646285786,pc:83c9332f, sp:97253ba4,len:28
+    pc:83c9332f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005832f, pid: 448, pname: services.exe
+
+padding,rrid:6646285859,pc:83c98457, sp:97253b50,len:4
+    pc:83c98457  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005d457, pid: 448, pname: services.exe
+
+padding,rrid:6646285860,pc:83c9845a, sp:97253aec,len:100
+    pc:83c9845a  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005d45a, pid: 448, pname: services.exe
+
+padding,rrid:6646286081,pc:83c0a0e3, sp:97253b74,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 448, pname: services.exe
+
+padding,rrid:6646287136,pc:83c70350, sp:97253d34,len:72
+    pc:83c70350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035350, pid: 448, pname: services.exe
+
+padding,rrid:6646287189,pc:83c70592, sp:97253d24,len:16
+    pc:83c70592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035592, pid: 448, pname: services.exe
+
+padding,rrid:6646287937,pc:83c92838, sp:97253cd4,len:56
+    pc:83c92838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00057838, pid: 448, pname: services.exe
+
+padding,rrid:6646288021,pc:83e3bc01, sp:97253c64,len:28
+    pc:83e3bc01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00200c01, pid: 448, pname: services.exe
+
+padding,rrid:6646288240,pc:83c0a0e3, sp:97253c9c,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 448, pname: services.exe
+
+padding,rrid:6646288687,pc:83c70350, sp:97253d34,len:72
+    pc:83c70350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035350, pid: 448, pname: services.exe
+
+padding,rrid:6646288740,pc:83c70592, sp:97253d2c,len:8
+    pc:83c70592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035592, pid: 448, pname: services.exe
+
+padding,rrid:6646289486,pc:83c92838, sp:97253cc8,len:76
+    pc:83c92838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00057838, pid: 448, pname: services.exe
+
+padding,rrid:6646289549,pc:83e3bbfe, sp:97253c70,len:4
+    pc:83e3bbfe  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00200bfe, pid: 448, pname: services.exe
+
+padding,rrid:6646289550,pc:83e3bc01, sp:97253c54,len:28
+    pc:83e3bc01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00200c01, pid: 448, pname: services.exe
+
+padding,rrid:6646289780,pc:83c0a0e3, sp:97253c90,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 448, pname: services.exe
+
+padding,rrid:6646289851,pc:83c92838, sp:97253c68,len:24
+    pc:83c92838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00057838, pid: 448, pname: services.exe
+
+padding,rrid:6646289883,pc:83c99dd5, sp:97253bfc,len:60
+    pc:83c99dd5  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005edd5, pid: 448, pname: services.exe
+
+padding,rrid:6646290092,pc:83c993fc, sp:97253bc4,len:20
+    pc:83c993fc  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005e3fc, pid: 448, pname: services.exe
+
+padding,rrid:6646290172,pc:83c97b41, sp:97253b6c,len:60
+    pc:83c97b41  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005cb41, pid: 448, pname: services.exe
+
+padding,rrid:6646290277,pc:83c9a517, sp:97253b8c,len:36
+    pc:83c9a517  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005f517, pid: 448, pname: services.exe
+
+padding,rrid:6646290329,pc:83c9a91e, sp:97253b70,len:4
+    pc:83c9a91e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005f91e, pid: 448, pname: services.exe
+
+padding,rrid:6646290330,pc:83c9a921, sp:97253b54,len:28
+    pc:83c9a921  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005f921, pid: 448, pname: services.exe
+
+padding,rrid:6646290398,pc:83c934e0, sp:97253b6c,len:16
+    pc:83c934e0  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 000584e0, pid: 448, pname: services.exe
+
+padding,rrid:6646290505,pc:83c9a785, sp:80eb3bcc,len:16
+    pc:83c9a785  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005f785, pid: 448, pname: services.exe
+
+padding,rrid:6646290586,pc:83c0a0e3, sp:80eb3bc4,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 448, pname: services.exe
+
+padding,rrid:6646290855,pc:83c70350, sp:80eb3d34,len:72
+    pc:83c70350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035350, pid: 448, pname: services.exe
+
+padding,rrid:6646290908,pc:83c70592, sp:80eb3d30,len:4
+    pc:83c70592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035592, pid: 448, pname: services.exe
+
+padding,rrid:6646291677,pc:83e3bc01, sp:80eb3cbc,len:28
+    pc:83e3bc01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00200c01, pid: 448, pname: services.exe
+
+padding,rrid:6646295804,pc:83c70350, sp:80eb3d34,len:72
+    pc:83c70350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035350, pid: 448, pname: services.exe
+
+padding,rrid:6646295857,pc:83c70592, sp:80eb3d28,len:12
+    pc:83c70592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035592, pid: 448, pname: services.exe
+
+padding,rrid:6646296604,pc:83c92838, sp:80eb3ce4,len:44
+    pc:83c92838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00057838, pid: 448, pname: services.exe
+
+padding,rrid:6646296664,pc:83e3bc01, sp:80eb3c74,len:28
+    pc:83e3bc01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00200c01, pid: 448, pname: services.exe
+
+padding,rrid:6646296831,pc:83c92ae4, sp:80eb3c64,len:84
+    pc:83c92ae4  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00057ae4, pid: 448, pname: services.exe
+
+padding,rrid:6646297002,pc:83c0a0e3, sp:80eb3c1c,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 448, pname: services.exe
+
+padding,rrid:6646298667,pc:83c70350, sp:80eb3d34,len:72
+    pc:83c70350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035350, pid: 448, pname: services.exe
+
+padding,rrid:6646298720,pc:83c70592, sp:80eb3d28,len:12
+    pc:83c70592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035592, pid: 448, pname: services.exe
+
+padding,rrid:6646299467,pc:83c92838, sp:80eb3ce4,len:44
+    pc:83c92838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00057838, pid: 448, pname: services.exe
+
+padding,rrid:6646299527,pc:83e3bc01, sp:80eb3c74,len:28
+    pc:83e3bc01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00200c01, pid: 448, pname: services.exe
+
+padding,rrid:6646299694,pc:83c92ae4, sp:80eb3c64,len:84
+    pc:83c92ae4  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00057ae4, pid: 448, pname: services.exe
+
+padding,rrid:6646299864,pc:83c993fc, sp:80eb3c2c,len:20
+    pc:83c993fc  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005e3fc, pid: 448, pname: services.exe
+
+padding,rrid:6646299982,pc:83c97b41, sp:80eb3bd4,len:60
+    pc:83c97b41  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005cb41, pid: 448, pname: services.exe
+
+padding,rrid:6646300093,pc:83c9a517, sp:80eb3bf4,len:36
+    pc:83c9a517  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005f517, pid: 448, pname: services.exe
+
+padding,rrid:6646300145,pc:83c9a91e, sp:80eb3bd8,len:4
+    pc:83c9a91e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005f91e, pid: 448, pname: services.exe
+
+padding,rrid:6646300146,pc:83c9a921, sp:80eb3bbc,len:28
+    pc:83c9a921  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005f921, pid: 448, pname: services.exe
+
+padding,rrid:6646300216,pc:83c934e0, sp:80eb3bd4,len:16
+    pc:83c934e0  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 000584e0, pid: 448, pname: services.exe
+
+padding,rrid:6646300323,pc:83c9a785, sp:80dc1bcc,len:16
+    pc:83c9a785  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005f785, pid: 448, pname: services.exe
+
+padding,rrid:6646300399,pc:83c0a0e3, sp:80dc1bc4,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 448, pname: services.exe
+
+padding,rrid:6646300795,pc:83c70350, sp:80dc1d34,len:72
+    pc:83c70350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035350, pid: 448, pname: services.exe
+
+padding,rrid:6646300848,pc:83c70592, sp:80dc1d2c,len:8
+    pc:83c70592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035592, pid: 448, pname: services.exe
+
+padding,rrid:6646301594,pc:83c92838, sp:80dc1cfc,len:24
+    pc:83c92838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00057838, pid: 448, pname: services.exe
+
+padding,rrid:6646301640,pc:83c99012, sp:80dc1ca4,len:52
+    pc:83c99012  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005e012, pid: 448, pname: services.exe
+
+padding,rrid:6646301778,pc:83c993fc, sp:80dc1c6c,len:20
+    pc:83c993fc  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005e3fc, pid: 448, pname: services.exe
+
+padding,rrid:6646301900,pc:83c97b41, sp:80dc1c14,len:60
+    pc:83c97b41  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005cb41, pid: 448, pname: services.exe
+
+padding,rrid:6646302024,pc:83c9a517, sp:80dc1c34,len:36
+    pc:83c9a517  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005f517, pid: 448, pname: services.exe
+
+padding,rrid:6646302076,pc:83c9a91e, sp:80dc1c18,len:4
+    pc:83c9a91e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005f91e, pid: 448, pname: services.exe
+
+padding,rrid:6646302077,pc:83c9a921, sp:80dc1bfc,len:28
+    pc:83c9a921  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005f921, pid: 448, pname: services.exe
+
+padding,rrid:6646302145,pc:83c934e0, sp:80dc1c14,len:16
+    pc:83c934e0  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 000584e0, pid: 448, pname: services.exe
+
+padding,rrid:6646302252,pc:83c9a785, sp:8e9c2c0c,len:16
+    pc:83c9a785  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005f785, pid: 448, pname: services.exe
+
+padding,rrid:6646302328,pc:83c0a0e3, sp:8e9c2c04,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 448, pname: services.exe
+
+padding,rrid:6646302475,pc:83cacc2b, sp:8e9c2d18,len:4
+    pc:83cacc2b  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00071c2b, pid: 448, pname: services.exe
+
+padding,rrid:6646302477,pc:83cacc31, sp:8e9c2cf4,len:36
+    pc:83cacc31  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00071c31, pid: 448, pname: services.exe
+
+padding,rrid:6646302589,pc:83c0a0e3, sp:8e9c2cc4,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 448, pname: services.exe
+
+padding,rrid:6646302652,pc:83d59aa5, sp:8e9c2cb8,len:4
+    pc:83d59aa5  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0011eaa5, pid: 448, pname: services.exe
+
+padding,rrid:6646302654,pc:83d59aad, sp:8e9c2c6c,len:76
+    pc:83d59aad  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0011eaad, pid: 448, pname: services.exe
+
+padding,rrid:6646302854,pc:83cb2b39, sp:8e9c2c14,len:16
+    pc:83cb2b39  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00077b39, pid: 448, pname: services.exe
+
+padding,rrid:6646302994,pc:83c6c580, sp:8e9c2978,len:836
+    pc:83c6c580  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00031580, pid: 448, pname: services.exe
+
+padding,rrid:6646303240,pc:83ce6573, sp:8e9c2950,len:4
+    pc:83ce6573  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 000ab573, pid: 448, pname: services.exe
+
+padding,rrid:6646303241,pc:83ce6576, sp:8e9c2934,len:28
+    pc:83ce6576  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 000ab576, pid: 448, pname: services.exe
+
+----[A]----:
+  rr_icount:6646303449
+  pc:83c67a6c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0002ca6c, pid: 448, pname: services.exe
+  addr1:00cbf238	value:4c b2 cb 00 00 00 00 00   addr2:8e9c2a84	value:4c b2 cb 00 00 00 00 00 
+----[B]----:
+  rr_icount:6646303449
+  pc:83c67a6c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0002ca6c, pid: 448, pname: services.exe
+  addr1:00cbf238	value:aa aa aa aa 00 00 00 00   addr2:8e9c2a84	value:aa aa aa aa 00 00 00 00 
+A_point:1024, B_point:412
+------Difference Found!------

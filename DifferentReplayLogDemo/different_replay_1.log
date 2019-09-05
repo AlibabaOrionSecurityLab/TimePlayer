@@ -1,0 +1,311 @@
+------Difference Found!------
+----padding history----
+padding,rrid:6656644872,pc:83c9cd01, sp:8eabaab4,len:36
+    pc:83c9cd01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00061d01, pid: 880, pname: svchost.exe
+
+padding,rrid:6656644945,pc:83c0a0e3, sp:8eabaa80,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656645053,pc:83ca0fc3, sp:8eabaab4,len:44
+    pc:83ca0fc3  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00065fc3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656645135,pc:83c0a0e3, sp:8eabaa80,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656645236,pc:83ca0fc3, sp:8eabaa8c,len:44
+    pc:83ca0fc3  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00065fc3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656645318,pc:83c0a0e3, sp:8eabaa58,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656645785,pc:8a434ae1, sp:8eabaae0,len:16
+    pc:8a434ae1  in module: \SystemRoot\System32\Drivers\Ntfs.sys, base: 8a41c000, offset: 00018ae1, pid: 880, pname: svchost.exe
+
+padding,rrid:6656646207,pc:83c9690c, sp:8eabaacc,len:36
+    pc:83c9690c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005b90c, pid: 880, pname: svchost.exe
+
+padding,rrid:6656646303,pc:83c0a0e3, sp:8eabaa98,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656646469,pc:83ca8c93, sp:8eafd698,len:20
+    pc:83ca8c93  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0006dc93, pid: 880, pname: svchost.exe
+
+padding,rrid:6656646626,pc:83c0a0e3, sp:8eafd668,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656646873,pc:83cc58c0, sp:8eafd69c,len:20
+    pc:83cc58c0  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0008a8c0, pid: 880, pname: svchost.exe
+
+padding,rrid:6656647005,pc:83c9690c, sp:8eafd694,len:36
+    pc:83c9690c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005b90c, pid: 880, pname: svchost.exe
+
+padding,rrid:6656647104,pc:83c0a0e3, sp:8eafd660,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656647342,pc:83c0a0e3, sp:8eafd67c,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656647422,pc:83c9690c, sp:8eafd68c,len:36
+    pc:83c9690c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005b90c, pid: 880, pname: svchost.exe
+
+padding,rrid:6656647521,pc:83c0a0e3, sp:8eafd658,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656647675,pc:83c9476e, sp:8eafd6dc,len:36
+    pc:83c9476e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005976e, pid: 880, pname: svchost.exe
+
+padding,rrid:6656647776,pc:8a3ae41d, sp:8eafd658,len:64
+    pc:8a3ae41d  in module: \SystemRoot\system32\drivers\fltmgr.sys, base: 8a3ac000, offset: 0000241d, pid: 880, pname: svchost.exe
+
+padding,rrid:6656647922,pc:83c0a0e3, sp:8eafd624,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656648065,pc:8a3e794b, sp:8eafd624,len:16
+    pc:8a3e794b  in module: \SystemRoot\system32\drivers\fileinfo.sys, base: 8a3e0000, offset: 0000794b, pid: 880, pname: svchost.exe
+
+padding,rrid:6656648430,pc:83c9326a, sp:8eafd6b8,len:4
+    pc:83c9326a  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005826a, pid: 880, pname: svchost.exe
+
+padding,rrid:6656648431,pc:83c9326d, sp:8eafd6ac,len:12
+    pc:83c9326d  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005826d, pid: 880, pname: svchost.exe
+
+padding,rrid:6656648505,pc:83c9332c, sp:8eafd680,len:4
+    pc:83c9332c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005832c, pid: 880, pname: svchost.exe
+
+padding,rrid:6656648506,pc:83c9332f, sp:8eafd664,len:28
+    pc:83c9332f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005832f, pid: 880, pname: svchost.exe
+
+padding,rrid:6656648539,pc:83c0a0e3, sp:8eafd634,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656648685,pc:83c92ae1, sp:8eafd958,len:4
+    pc:83c92ae1  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00057ae1, pid: 880, pname: svchost.exe
+
+padding,rrid:6656648686,pc:83c92ae4, sp:8eafd904,len:84
+    pc:83c92ae4  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00057ae4, pid: 880, pname: svchost.exe
+
+padding,rrid:6656648823,pc:83c0a0e3, sp:8eafd8bc,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656648930,pc:83c0a0e3, sp:8eafd950,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656649125,pc:83e59b40, sp:8eafd988,len:4
+    pc:83e59b40  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0021eb40, pid: 880, pname: svchost.exe
+
+padding,rrid:6656649126,pc:83e59b43, sp:8eafd95c,len:44
+    pc:83e59b43  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0021eb43, pid: 880, pname: svchost.exe
+
+padding,rrid:6656649228,pc:83ca7cd0, sp:8eafd90c,len:20
+    pc:83ca7cd0  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0006ccd0, pid: 880, pname: svchost.exe
+
+padding,rrid:6656649559,pc:83c0a0e3, sp:8eafd918,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656649675,pc:83c0a0e3, sp:8eafd91c,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656649782,pc:83c0a0e3, sp:8eafd91c,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656649863,pc:8a3b2661, sp:8eafd918,len:24
+    pc:8a3b2661  in module: \SystemRoot\system32\drivers\fltmgr.sys, base: 8a3ac000, offset: 00006661, pid: 880, pname: svchost.exe
+
+padding,rrid:6656650041,pc:8a3ad745, sp:8eafd8a4,len:12
+    pc:8a3ad745  in module: \SystemRoot\system32\drivers\fltmgr.sys, base: 8a3ac000, offset: 00001745, pid: 880, pname: svchost.exe
+
+padding,rrid:6656650519,pc:8a3aea9b, sp:8eafd878,len:76
+    pc:8a3aea9b  in module: \SystemRoot\system32\drivers\fltmgr.sys, base: 8a3ac000, offset: 00002a9b, pid: 880, pname: svchost.exe
+
+padding,rrid:6656650785,pc:8a3b7614, sp:8eafd834,len:16
+    pc:8a3b7614  in module: \SystemRoot\system32\drivers\fltmgr.sys, base: 8a3ac000, offset: 0000b614, pid: 880, pname: svchost.exe
+
+padding,rrid:6656650989,pc:8a3b7614, sp:8eafd7fc,len:16
+    pc:8a3b7614  in module: \SystemRoot\system32\drivers\fltmgr.sys, base: 8a3ac000, offset: 0000b614, pid: 880, pname: svchost.exe
+
+padding,rrid:6656651141,pc:8a3b7614, sp:8eafd800,len:12
+    pc:8a3b7614  in module: \SystemRoot\system32\drivers\fltmgr.sys, base: 8a3ac000, offset: 0000b614, pid: 880, pname: svchost.exe
+
+padding,rrid:6656651779,pc:83cc5a6a, sp:8eafd810,len:4
+    pc:83cc5a6a  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0008aa6a, pid: 880, pname: svchost.exe
+
+padding,rrid:6656651780,pc:83cc5a6d, sp:8eafd7cc,len:68
+    pc:83cc5a6d  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0008aa6d, pid: 880, pname: svchost.exe
+
+padding,rrid:6656652884,pc:8a3b22b7, sp:8eafd8e8,len:16
+    pc:8a3b22b7  in module: \SystemRoot\system32\drivers\fltmgr.sys, base: 8a3ac000, offset: 000062b7, pid: 880, pname: svchost.exe
+
+padding,rrid:6656653119,pc:8a42a2a8, sp:8eafd858,len:84
+    pc:8a42a2a8  in module: \SystemRoot\System32\Drivers\Ntfs.sys, base: 8a41c000, offset: 0000e2a8, pid: 880, pname: svchost.exe
+
+padding,rrid:6656653277,pc:83c0a0e3, sp:8eafd824,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656653344,pc:83cc58c0, sp:8eafd808,len:20
+    pc:83cc58c0  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0008a8c0, pid: 880, pname: svchost.exe
+
+padding,rrid:6656653487,pc:8a42d5c2, sp:8eafd820,len:16
+    pc:8a42d5c2  in module: \SystemRoot\System32\Drivers\Ntfs.sys, base: 8a41c000, offset: 000115c2, pid: 880, pname: svchost.exe
+
+padding,rrid:6656653756,pc:8a42a2a8, sp:8eafd7e0,len:72
+    pc:8a42a2a8  in module: \SystemRoot\System32\Drivers\Ntfs.sys, base: 8a41c000, offset: 0000e2a8, pid: 880, pname: svchost.exe
+
+padding,rrid:6656653823,pc:8a42a2a8, sp:8eafd7f4,len:28
+    pc:8a42a2a8  in module: \SystemRoot\System32\Drivers\Ntfs.sys, base: 8a41c000, offset: 0000e2a8, pid: 880, pname: svchost.exe
+
+padding,rrid:6656653885,pc:83c9ccfe, sp:8eafd7b8,len:4
+    pc:83c9ccfe  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00061cfe, pid: 880, pname: svchost.exe
+
+padding,rrid:6656653886,pc:83c9cd01, sp:8eafd794,len:36
+    pc:83c9cd01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00061d01, pid: 880, pname: svchost.exe
+
+padding,rrid:6656653959,pc:83c0a0e3, sp:8eafd760,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656654066,pc:83ca0fc3, sp:8eafd76c,len:44
+    pc:83ca0fc3  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00065fc3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656654148,pc:83c0a0e3, sp:8eafd738,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656654294,pc:83cc270a, sp:8eafd7a8,len:12
+    pc:83cc270a  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0008770a, pid: 880, pname: svchost.exe
+
+padding,rrid:6656654433,pc:83c0a0e3, sp:8eafd7c0,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656654571,pc:83c0a0e3, sp:8eafd7a4,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656654799,pc:83c9690c, sp:8eafd77c,len:36
+    pc:83c9690c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005b90c, pid: 880, pname: svchost.exe
+
+padding,rrid:6656654898,pc:83c0a0e3, sp:8eafd748,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656654974,pc:83c9690c, sp:8eafd7ac,len:36
+    pc:83c9690c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005b90c, pid: 880, pname: svchost.exe
+
+padding,rrid:6656655070,pc:83c0a0e3, sp:8eafd778,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656655429,pc:83c9476e, sp:8eafd7f0,len:36
+    pc:83c9476e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005976e, pid: 880, pname: svchost.exe
+
+padding,rrid:6656655523,pc:83c9326d, sp:8eafd7c4,len:12
+    pc:83c9326d  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005826d, pid: 880, pname: svchost.exe
+
+padding,rrid:6656655597,pc:83c9332c, sp:8eafd798,len:4
+    pc:83c9332c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005832c, pid: 880, pname: svchost.exe
+
+padding,rrid:6656655598,pc:83c9332f, sp:8eafd77c,len:28
+    pc:83c9332f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0005832f, pid: 880, pname: svchost.exe
+
+padding,rrid:6656655631,pc:83c0a0e3, sp:8eafd74c,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656655809,pc:83c0a0e3, sp:8eafd928,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656655941,pc:83d59aad, sp:8eafd8f4,len:76
+    pc:83d59aad  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0011eaad, pid: 880, pname: svchost.exe
+
+padding,rrid:6656656184,pc:83c0a0e3, sp:8eafd914,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656656305,pc:83c0a0e3, sp:8eafd914,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656656364,pc:83e49b03, sp:8eafd97c,len:20
+    pc:83e49b03  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0020eb03, pid: 880, pname: svchost.exe
+
+padding,rrid:6656656461,pc:83d59aa5, sp:8eafd968,len:4
+    pc:83d59aa5  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0011eaa5, pid: 880, pname: svchost.exe
+
+padding,rrid:6656656463,pc:83d59aad, sp:8eafd91c,len:76
+    pc:83d59aad  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0011eaad, pid: 880, pname: svchost.exe
+
+padding,rrid:6656659984,pc:83c75d95, sp:8eafdd7c,len:4
+    pc:83c75d95  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0003ad95, pid: 880, pname: svchost.exe
+
+padding,rrid:6656659992,pc:83c75da3, sp:8eafdd34,len:48
+    pc:83c75da3  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0003ada3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656660051,pc:83c9d3eb, sp:8eafdd18,len:4
+    pc:83c9d3eb  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 000623eb, pid: 880, pname: svchost.exe
+
+padding,rrid:6656660052,pc:83c9d3ee, sp:8eafdcd4,len:68
+    pc:83c9d3ee  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 000623ee, pid: 880, pname: svchost.exe
+
+padding,rrid:6656660409,pc:83ca02c7, sp:8eafdc5c,len:72
+    pc:83ca02c7  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 000652c7, pid: 880, pname: svchost.exe
+
+padding,rrid:6656660450,pc:83cdfe19, sp:8eafdc34,len:16
+    pc:83cdfe19  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 000a4e19, pid: 880, pname: svchost.exe
+
+padding,rrid:6656660555,pc:83cac010, sp:8eafdc0c,len:28
+    pc:83cac010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00071010, pid: 880, pname: svchost.exe
+
+padding,rrid:6656660691,pc:83cab8a8, sp:8eafdbd8,len:4
+    pc:83cab8a8  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 000708a8, pid: 880, pname: svchost.exe
+
+padding,rrid:6656660692,pc:83cab8ab, sp:8eafdbbc,len:28
+    pc:83cab8ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 000708ab, pid: 880, pname: svchost.exe
+
+padding,rrid:6656660765,pc:83cd2a77, sp:8eafdb8c,len:24
+    pc:83cd2a77  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00097a77, pid: 880, pname: svchost.exe
+
+padding,rrid:6656661009,pc:83c0a0e3, sp:8eafdb74,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656661069,pc:83cd9a54, sp:8eafdb74,len:36
+    pc:83cd9a54  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0009ea54, pid: 880, pname: svchost.exe
+
+padding,rrid:6656661163,pc:83cb4984, sp:8eafdb40,len:16
+    pc:83cb4984  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00079984, pid: 880, pname: svchost.exe
+
+padding,rrid:6656661266,pc:83caa0cf, sp:8eafdb14,len:12
+    pc:83caa0cf  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 0006f0cf, pid: 880, pname: svchost.exe
+
+padding,rrid:6656661394,pc:83cb3c37, sp:8eafdca4,len:20
+    pc:83cb3c37  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00078c37, pid: 880, pname: svchost.exe
+
+padding,rrid:6656661523,pc:83c0a0e3, sp:8eafdd10,len:12
+    pc:83c0a0e3  in module: \SystemRoot\system32\halmacpi.dll, base: 83c05000, offset: 000050e3, pid: 880, pname: svchost.exe
+
+padding,rrid:6656661975,pc:83c73dbf, sp:8eafdd7c,len:4
+    pc:83c73dbf  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00038dbf, pid: 880, pname: svchost.exe
+
+padding,rrid:6656661983,pc:83c73dcd, sp:8eafdd34,len:48
+    pc:83c73dcd  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00038dcd, pid: 880, pname: svchost.exe
+
+padding,rrid:6656662826,pc:83c70350, sp:8eafdd34,len:72
+    pc:83c70350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035350, pid: 880, pname: svchost.exe
+
+padding,rrid:6656662879,pc:83c70592, sp:8eafdd20,len:20
+    pc:83c70592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00035592, pid: 880, pname: svchost.exe
+
+padding,rrid:6656663628,pc:83c92838, sp:8eafdc74,len:148
+    pc:83c92838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00057838, pid: 880, pname: svchost.exe
+
+padding,rrid:6656663739,pc:83e3bc01, sp:8eafdc04,len:28
+    pc:83e3bc01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00200c01, pid: 880, pname: svchost.exe
+
+padding,rrid:6656663983,pc:8a40ba77, sp:8eafdbe4,len:68
+    pc:8a40ba77  in module: \SystemRoot\System32\drivers\discache.sys, base: 8a40a000, offset: 00001a77, pid: 880, pname: svchost.exe
+
+padding,rrid:6656664058,pc:83e3bbfe, sp:8eafdb68,len:4
+    pc:83e3bbfe  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00200bfe, pid: 880, pname: svchost.exe
+
+padding,rrid:6656664059,pc:83e3bc01, sp:8eafdb4c,len:28
+    pc:83e3bc01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 00200c01, pid: 880, pname: svchost.exe
+
+----[A]----:
+  rr_icount:6656664230
+  pc:83e5b3df  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 002203df, pid: 880, pname: svchost.exe
+  addr1:01b9f338	value:90 b0 c9 83 00 00 00 00   addr2:00000000	value:00 00 00 00 00 00 00 00
+----[B]----:
+  rr_icount:6656664230
+  pc:83e5b3df  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c3b000, offset: 002203df, pid: 880, pname: svchost.exe
+  addr1:01b9f338	value:aa aa aa aa 00 00 00 00   addr2:00000000	value:00 00 00 00 00 00 00 00
+A_point:1024, B_point:161

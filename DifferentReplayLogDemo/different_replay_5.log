@@ -1,0 +1,775 @@
+----padding history----
+padding: rrid:1678016, pc:fffff800026877ab, addr:fffff8800280fa90, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1678242, pc:fffff800026ee5a7, addr:fffff8800280fd80, len:8
+    pc:fffff800026ee5a7  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000a15a7, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1678244, pc:fffff800026ee5ac, addr:fffff8800280fc20, len:344
+    pc:fffff800026ee5ac  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000a15ac, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1678330, pc:fffff80002950a89, addr:fffff8800280fb30, len:96
+    pc:fffff80002950a89  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00303a89, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1678410, pc:fffff80002b077b7, addr:fffff8800280f920, len:480
+    pc:fffff80002b077b7  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 004ba7b7, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1678494, pc:fffff80002ac9efa, addr:fffff8800280f8b0, len:48
+    pc:fffff80002ac9efa  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0047cefa, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1678518, pc:fffff8000269a875, addr:fffff8800280f820, len:128
+    pc:fffff8000269a875  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0004d875, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1678551, pc:fffff80002826b45, addr:fffff8800280f7c0, len:208
+    pc:fffff80002826b45  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 001d9b45, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1678754, pc:fffff80002826b45, addr:fffff8800280f7c0, len:208
+    pc:fffff80002826b45  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 001d9b45, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1679136, pc:fffff80002996835, addr:fffff8800280f8c0, len:64
+    pc:fffff80002996835  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00349835, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1679202, pc:fffff8000293249a, addr:fffff8800280f8b0, len:80
+    pc:fffff8000293249a  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e549a, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1679250, pc:fffff80002935833, addr:fffff8800280f830, len:80
+    pc:fffff80002935833  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e8833, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1679308, pc:fffff80002a1e46f, addr:fffff8800280f840, len:64
+    pc:fffff80002a1e46f  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 003d146f, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1679370, pc:fffff80002826b45, addr:fffff8800280f750, len:208
+    pc:fffff80002826b45  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 001d9b45, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1679666, pc:fffff80002941e90, addr:fffff8800280f8e0, len:528
+    pc:fffff80002941e90  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f4e90, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1679721, pc:fffff80002936b27, addr:fffff8800280f7d0, len:216
+    pc:fffff80002936b27  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e9b27, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1679779, pc:fffff80002935e6f, addr:fffff8800280f710, len:120
+    pc:fffff80002935e6f  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e8e6f, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1679844, pc:fffff8000268de68, addr:fffff8800280f6b0, len:48
+    pc:fffff8000268de68  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00040e68, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1679901, pc:fffff8000268de68, addr:fffff8800280f6b0, len:48
+    pc:fffff8000268de68  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00040e68, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1680186, pc:fffff800026877ab, addr:fffff8800280f880, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1680327, pc:fffff800026ee5a7, addr:fffff8800280fd80, len:8
+    pc:fffff800026ee5a7  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000a15a7, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1680329, pc:fffff800026ee5ac, addr:fffff8800280fc20, len:344
+    pc:fffff800026ee5ac  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000a15ac, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1680410, pc:fffff800029631bf, addr:fffff8800280fb50, len:88
+    pc:fffff800029631bf  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 003161bf, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1680431, pc:fffff80002958784, addr:fffff8800280f9d0, len:336
+    pc:fffff80002958784  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0030b784, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1680625, pc:fffff80002922520, addr:fffff8800280f9a0, len:40
+    pc:fffff80002922520  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002d5520, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1680778, pc:fffff800026e2872, addr:fffff8800280f830, len:336
+    pc:fffff800026e2872  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00095872, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1680844, pc:fffff8000260f85e, addr:fffff8800280f800, len:32
+    pc:fffff8000260f85e  in module: \SystemRoot\system32\hal.dll, base: fffff80002605000, offset: 0000a85e, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1680871, pc:fffff800026c8bd8, addr:fffff8800280f700, len:208
+    pc:fffff800026c8bd8  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0007bbd8, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1681139, pc:fffff800026c8fe8, addr:fffff8800280f670, len:96
+    pc:fffff800026c8fe8  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0007bfe8, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1681272, pc:fffff800026e5970, addr:fffff8800280f820, len:8
+    pc:fffff800026e5970  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00098970, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1681277, pc:fffff800026e2eb0, addr:fffff8800280f7f0, len:40
+    pc:fffff800026e2eb0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00095eb0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1681306, pc:fffff8000266e9f6, addr:fffff8800280f7b0, len:32
+    pc:fffff8000266e9f6  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000219f6, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1681398, pc:fffff8000267c6ab, addr:fffff8800280f780, len:32
+    pc:fffff8000267c6ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0002f6ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1681447, pc:fffff800026e2dd0, addr:fffff8800280f670, len:312
+    pc:fffff800026e2dd0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00095dd0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1681471, pc:fffff800026e30f0, addr:fffff8800280f630, len:56
+    pc:fffff800026e30f0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000960f0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1681988, pc:fffff800026ee5a7, addr:fffff88004d35d80, len:8
+    pc:fffff800026ee5a7  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000a15a7, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1681990, pc:fffff800026ee5ac, addr:fffff88004d35c20, len:344
+    pc:fffff800026ee5ac  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000a15ac, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1682049, pc:fffff80002920354, addr:fffff88004d35bf0, len:40
+    pc:fffff80002920354  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002d3354, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1682077, pc:fffff80002675638, addr:fffff88004d35b80, len:48
+    pc:fffff80002675638  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00028638, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1682157, pc:fffff80002685d4d, addr:fffff88004d35af0, len:88
+    pc:fffff80002685d4d  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00038d4d, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1682246, pc:fffff800026838b0, addr:fffff88004d35a90, len:32
+    pc:fffff800026838b0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000368b0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1682349, pc:fffff80002685943, addr:fffff88004d35a80, len:88
+    pc:fffff80002685943  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00038943, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1682404, pc:fffff800026e2dd0, addr:fffff88004d359b0, len:312
+    pc:fffff800026e2dd0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00095dd0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1682428, pc:fffff800026e30f0, addr:fffff88004d35970, len:56
+    pc:fffff800026e30f0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000960f0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1682945, pc:fffff800026ee5a7, addr:fffff88004bc7d80, len:8
+    pc:fffff800026ee5a7  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000a15a7, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1682947, pc:fffff800026ee5ac, addr:fffff88004bc7c20, len:344
+    pc:fffff800026ee5ac  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000a15ac, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1683006, pc:fffff80002920354, addr:fffff88004bc7bf0, len:40
+    pc:fffff80002920354  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002d3354, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1683034, pc:fffff80002675638, addr:fffff88004bc7b80, len:48
+    pc:fffff80002675638  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00028638, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1683114, pc:fffff80002685d4d, addr:fffff88004bc7af0, len:88
+    pc:fffff80002685d4d  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00038d4d, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1683203, pc:fffff800026838b0, addr:fffff88004bc7a90, len:32
+    pc:fffff800026838b0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000368b0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1683295, pc:fffff80002685943, addr:fffff88004bc7a80, len:88
+    pc:fffff80002685943  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00038943, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1683354, pc:fffff800026e2dd0, addr:fffff88004bc79b0, len:312
+    pc:fffff800026e2dd0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00095dd0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1683378, pc:fffff800026e30f0, addr:fffff88004bc7970, len:56
+    pc:fffff800026e30f0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000960f0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1683609, pc:fffff800029227b2, addr:fffff8800280f920, len:112
+    pc:fffff800029227b2  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002d57b2, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1683633, pc:fffff80002922de9, addr:fffff8800280f6a0, len:568
+    pc:fffff80002922de9  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002d5de9, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1683657, pc:fffff800029355f3, addr:fffff8800280f620, len:80
+    pc:fffff800029355f3  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e85f3, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1683844, pc:fffff80002947b73, addr:fffff8800280f650, len:56
+    pc:fffff80002947b73  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002fab73, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684022, pc:fffff80002686d86, addr:fffff8800280f620, len:32
+    pc:fffff80002686d86  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00039d86, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684114, pc:fffff80002a5c6e9, addr:fffff8800280f5a0, len:208
+    pc:fffff80002a5c6e9  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0040f6e9, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684128, pc:fffff800029373c4, addr:fffff8800280f560, len:32
+    pc:fffff800029373c4  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002ea3c4, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684144, pc:fffff80002937248, addr:fffff8800280f510, len:32
+    pc:fffff80002937248  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002ea248, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684156, pc:fffff80002686d86, addr:fffff8800280f4e0, len:32
+    pc:fffff80002686d86  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00039d86, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684205, pc:fffff800029364c0, addr:fffff8800280f4d0, len:80
+    pc:fffff800029364c0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e94c0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684222, pc:fffff80002684492, addr:fffff8800280f460, len:64
+    pc:fffff80002684492  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00037492, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684274, pc:fffff8000268685d, addr:fffff8800280f470, len:48
+    pc:fffff8000268685d  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003985d, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684556, pc:fffff8000293f537, addr:fffff8800280f550, len:32
+    pc:fffff8000293f537  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f2537, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684631, pc:fffff8000293e057, addr:fffff8800280f500, len:32
+    pc:fffff8000293e057  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f1057, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684654, pc:fffff80002689836, addr:fffff8800280f4d0, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684688, pc:fffff800029413d0, addr:fffff8800280f4f0, len:8
+    pc:fffff800029413d0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f43d0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684726, pc:fffff80002689836, addr:fffff8800280f4d0, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684756, pc:fffff800026877ab, addr:fffff8800280f4a0, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684880, pc:fffff8000293f537, addr:fffff8800280f550, len:32
+    pc:fffff8000293f537  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f2537, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684935, pc:fffff8000293e057, addr:fffff8800280f500, len:32
+    pc:fffff8000293e057  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f1057, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684958, pc:fffff80002689836, addr:fffff8800280f4d0, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1684992, pc:fffff800029413d0, addr:fffff8800280f4f0, len:8
+    pc:fffff800029413d0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f43d0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685027, pc:fffff80002689836, addr:fffff8800280f4d0, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685057, pc:fffff800026877ab, addr:fffff8800280f4a0, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685089, pc:fffff800026877ab, addr:fffff8800280f4a0, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685248, pc:fffff8000293f537, addr:fffff8800280f550, len:32
+    pc:fffff8000293f537  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f2537, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685358, pc:fffff8000293e057, addr:fffff8800280f500, len:32
+    pc:fffff8000293e057  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f1057, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685381, pc:fffff80002689836, addr:fffff8800280f4d0, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685415, pc:fffff800029413d0, addr:fffff8800280f4f0, len:8
+    pc:fffff800029413d0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f43d0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685474, pc:fffff80002689836, addr:fffff8800280f4d0, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685504, pc:fffff800026877ab, addr:fffff8800280f4a0, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685536, pc:fffff800026877ab, addr:fffff8800280f4a0, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685672, pc:fffff80002689836, addr:fffff8800280f570, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685700, pc:fffff80002689836, addr:fffff8800280f570, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685730, pc:fffff8000293f537, addr:fffff8800280f550, len:32
+    pc:fffff8000293f537  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f2537, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685840, pc:fffff8000293e057, addr:fffff8800280f500, len:32
+    pc:fffff8000293e057  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f1057, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685869, pc:fffff800029413d0, addr:fffff8800280f4f0, len:8
+    pc:fffff800029413d0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f43d0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685928, pc:fffff80002689836, addr:fffff8800280f4d0, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1685948, pc:fffff800026877ab, addr:fffff8800280f4a0, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1686010, pc:fffff800026877ab, addr:fffff8800280f540, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1686045, pc:fffff8000265fe5e, addr:fffff8800280f570, len:32
+    pc:fffff8000265fe5e  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00012e5e, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1686113, pc:fffff800026877ab, addr:fffff8800280f640, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1686143, pc:fffff800026877ab, addr:fffff8800280f640, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1686182, pc:fffff8000292306c, addr:fffff8800280f600, len:112
+    pc:fffff8000292306c  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002d606c, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1686201, pc:fffff8000292a47c, addr:fffff8800280f570, len:96
+    pc:fffff8000292a47c  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002dd47c, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1686219, pc:fffff8000292a584, addr:fffff8800280f540, len:32
+    pc:fffff8000292a584  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002dd584, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1686277, pc:fffff80002684492, addr:fffff8800280f590, len:64
+    pc:fffff80002684492  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00037492, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1686336, pc:fffff800026814d0, addr:fffff8800280f590, len:104
+    pc:fffff800026814d0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000344d0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1686361, pc:fffff80002680dc0, addr:fffff8800280f490, len:208
+    pc:fffff80002680dc0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00033dc0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1686411, pc:fffff800026800a6, addr:fffff8800280f420, len:88
+    pc:fffff800026800a6  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000330a6, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1686772, pc:fffff8000268087d, addr:fffff8800280f360, len:232
+    pc:fffff8000268087d  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003387d, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1686860, pc:fffff800026804dd, addr:fffff8800280f2d0, len:120
+    pc:fffff800026804dd  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000334dd, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1687138, pc:fffff8000291d418, addr:fffff8800280f5b0, len:64
+    pc:fffff8000291d418  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002d0418, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1687158, pc:fffff8000291fc38, addr:fffff8800280f540, len:80
+    pc:fffff8000291fc38  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002d2c38, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1687204, pc:fffff8000268685d, addr:fffff8800280f5a0, len:48
+    pc:fffff8000268685d  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003985d, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1687287, pc:fffff800029482d1, addr:fffff8800280f5d0, len:32
+    pc:fffff800029482d1  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002fb2d1, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1687326, pc:fffff80002947df6, addr:fffff8800280f670, len:32
+    pc:fffff80002947df6  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002fadf6, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1687458, pc:fffff8000293249a, addr:fffff8800280f8b0, len:80
+    pc:fffff8000293249a  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e549a, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1687506, pc:fffff80002935833, addr:fffff8800280f830, len:80
+    pc:fffff80002935833  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e8833, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1687566, pc:fffff80002a1e46f, addr:fffff8800280f840, len:64
+    pc:fffff80002a1e46f  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 003d146f, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1687629, pc:fffff80002826b45, addr:fffff8800280f750, len:208
+    pc:fffff80002826b45  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 001d9b45, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1688016, pc:fffff8000291c49e, addr:fffff8800280f8f0, len:32
+    pc:fffff8000291c49e  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002cf49e, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1688085, pc:fffff8000294b397, addr:fffff8800280f8f0, len:32
+    pc:fffff8000294b397  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002fe397, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1688229, pc:fffff8000291963e, addr:fffff8800280f8f0, len:32
+    pc:fffff8000291963e  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002cc63e, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1688330, pc:fffff8000291c5ff, addr:fffff8800280f890, len:136
+    pc:fffff8000291c5ff  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002cf5ff, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1688468, pc:fffff80002689836, addr:fffff8800280f8f0, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1688484, pc:fffff80002689836, addr:fffff8800280f8f0, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1688512, pc:fffff80002941e90, addr:fffff8800280f6d0, len:528
+    pc:fffff80002941e90  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f4e90, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1688567, pc:fffff80002936b27, addr:fffff8800280f5c0, len:216
+    pc:fffff80002936b27  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e9b27, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1688625, pc:fffff80002935e6f, addr:fffff8800280f500, len:120
+    pc:fffff80002935e6f  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e8e6f, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1688692, pc:fffff8000268de68, addr:fffff8800280f4a0, len:48
+    pc:fffff8000268de68  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00040e68, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1688765, pc:fffff8000293261b, addr:fffff8800280f4d0, len:32
+    pc:fffff8000293261b  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e561b, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1688822, pc:fffff8000291f776, addr:fffff8800280f4d0, len:32
+    pc:fffff8000291f776  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002d2776, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1689067, pc:fffff800026877ab, addr:fffff8800280f670, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1689162, pc:fffff800029599a0, addr:fffff8800280f950, len:64
+    pc:fffff800029599a0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0030c9a0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1689190, pc:fffff80002959090, addr:fffff8800280f920, len:32
+    pc:fffff80002959090  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0030c090, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1689199, pc:fffff8000294b397, addr:fffff8800280f8f0, len:32
+    pc:fffff8000294b397  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002fe397, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1689419, pc:fffff8000295949a, addr:fffff8800280f8b0, len:96
+    pc:fffff8000295949a  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0030c49a, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1689448, pc:fffff80002938e4a, addr:fffff8800280f7e0, len:136
+    pc:fffff80002938e4a  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002ebe4a, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1689556, pc:fffff80002922cd2, addr:fffff8800280f870, len:48
+    pc:fffff80002922cd2  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002d5cd2, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1689633, pc:fffff800029596b8, addr:fffff8800280f840, len:80
+    pc:fffff800029596b8  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0030c6b8, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1689647, pc:fffff8000294b397, addr:fffff8800280f810, len:32
+    pc:fffff8000294b397  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002fe397, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1689660, pc:fffff80002826b45, addr:fffff8800280f720, len:208
+    pc:fffff80002826b45  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 001d9b45, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1689999, pc:fffff80002938e4a, addr:fffff8800280f770, len:136
+    pc:fffff80002938e4a  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002ebe4a, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1690120, pc:fffff80002689836, addr:fffff8800280f810, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1690204, pc:fffff800029592e8, addr:fffff8800280f870, len:32
+    pc:fffff800029592e8  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0030c2e8, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1690224, pc:fffff8000294b462, addr:fffff8800280f830, len:48
+    pc:fffff8000294b462  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002fe462, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1690268, pc:fffff8000294b397, addr:fffff8800280f800, len:32
+    pc:fffff8000294b397  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002fe397, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1690281, pc:fffff80002826b45, addr:fffff8800280f710, len:208
+    pc:fffff80002826b45  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 001d9b45, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1690612, pc:fffff8000293f039, addr:fffff8800280f7b0, len:168
+    pc:fffff8000293f039  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f2039, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1690652, pc:fffff80002826b45, addr:fffff8800280f6c0, len:208
+    pc:fffff80002826b45  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 001d9b45, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1690895, pc:fffff80002941ae0, addr:fffff8800280f6c0, len:224
+    pc:fffff80002941ae0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f4ae0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1691026, pc:fffff80002a77aca, addr:fffff8800280f5c0, len:216
+    pc:fffff80002a77aca  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0042aaca, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1691058, pc:fffff800026c1847, addr:fffff8800280f530, len:112
+    pc:fffff800026c1847  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00074847, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1691143, pc:fffff800026da646, addr:fffff8800280f560, len:48
+    pc:fffff800026da646  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0008d646, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1691180, pc:fffff800026da800, addr:fffff8800280f560, len:48
+    pc:fffff800026da800  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0008d800, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1691195, pc:fffff800026da646, addr:fffff8800280f500, len:48
+    pc:fffff800026da646  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0008d646, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1691342, pc:fffff80002945288, addr:fffff8800280f550, len:64
+    pc:fffff80002945288  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f8288, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1691387, pc:fffff80002690ea6, addr:fffff8800280f510, len:24
+    pc:fffff80002690ea6  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00043ea6, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1691513, pc:fffff80002826b45, addr:fffff8800280f4d0, len:208
+    pc:fffff80002826b45  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 001d9b45, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1691799, pc:fffff80002943bf0, addr:fffff8800280f530, len:80
+    pc:fffff80002943bf0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f6bf0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1691814, pc:fffff8000268fd08, addr:fffff8800280f500, len:40
+    pc:fffff8000268fd08  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00042d08, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1691830, pc:fffff8000268de68, addr:fffff8800280f4a0, len:48
+    pc:fffff8000268de68  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00040e68, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1691914, pc:fffff8000268de68, addr:fffff8800280f4d0, len:48
+    pc:fffff8000268de68  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00040e68, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1692030, pc:fffff80002690dd0, addr:fffff8800280f500, len:40
+    pc:fffff80002690dd0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00043dd0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1692069, pc:fffff8000269b0c2, addr:fffff8800280f580, len:48
+    pc:fffff8000269b0c2  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0004e0c2, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1692214, pc:fffff800026d9cd4, addr:fffff8800280f540, len:48
+    pc:fffff800026d9cd4  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0008ccd4, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1692349, pc:fffff80002689836, addr:fffff8800280f780, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1692365, pc:fffff80002689836, addr:fffff8800280f780, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1692597, pc:fffff800026877ab, addr:fffff8800280f850, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1692660, pc:fffff8000295eaa6, addr:fffff8800280f920, len:32
+    pc:fffff8000295eaa6  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00311aa6, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1692732, pc:fffff8000295860c, addr:fffff8800280f980, len:32
+    pc:fffff8000295860c  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0030b60c, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1692751, pc:fffff8000268b690, addr:fffff8800280f950, len:40
+    pc:fffff8000268b690  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003e690, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1692803, pc:fffff80002689836, addr:fffff8800280f950, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1692828, pc:fffff8000293c65d, addr:fffff8800280f8f0, len:72
+    pc:fffff8000293c65d  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002ef65d, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1692853, pc:fffff8000293e17a, addr:fffff8800280f8b0, len:32
+    pc:fffff8000293e17a  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f117a, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1693012, pc:fffff800026877ab, addr:fffff8800280f890, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1693084, pc:fffff8000295b3d9, addr:fffff8800280f960, len:80
+    pc:fffff8000295b3d9  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0030e3d9, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1693105, pc:fffff80002935c78, addr:fffff8800280f900, len:48
+    pc:fffff80002935c78  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e8c78, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1693122, pc:fffff80002684c86, addr:fffff8800280f850, len:128
+    pc:fffff80002684c86  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00037c86, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1693256, pc:fffff8000268d2a8, addr:fffff8800280f7d0, len:80
+    pc:fffff8000268d2a8  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000402a8, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1693459, pc:fffff800026850ea, addr:fffff8800280f7b0, len:88
+    pc:fffff800026850ea  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000380ea, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1693540, pc:fffff80002685d4d, addr:fffff8800280f720, len:88
+    pc:fffff80002685d4d  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00038d4d, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1693622, pc:fffff80002685943, addr:fffff8800280f6b0, len:88
+    pc:fffff80002685943  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00038943, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1693652, pc:fffff800026e2dd0, addr:fffff8800280f5e0, len:312
+    pc:fffff800026e2dd0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00095dd0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1693676, pc:fffff800026e30f0, addr:fffff8800280f5a0, len:56
+    pc:fffff800026e30f0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000960f0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1694031, pc:fffff8000293f670, addr:fffff88003b3d9e0, len:64
+    pc:fffff8000293f670  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f2670, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1694078, pc:fffff80002942455, addr:fffff88003b3d950, len:80
+    pc:fffff80002942455  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f5455, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1694123, pc:fffff8000293f039, addr:fffff88003b3d890, len:168
+    pc:fffff8000293f039  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f2039, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1694163, pc:fffff80002826b45, addr:fffff88003b3d7a0, len:208
+    pc:fffff80002826b45  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 001d9b45, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1694406, pc:fffff80002941ae0, addr:fffff88003b3d7a0, len:224
+    pc:fffff80002941ae0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f4ae0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1694537, pc:fffff80002a77aca, addr:fffff88003b3d6a0, len:216
+    pc:fffff80002a77aca  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0042aaca, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1694569, pc:fffff800026c1847, addr:fffff88003b3d610, len:112
+    pc:fffff800026c1847  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00074847, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1694654, pc:fffff800026da646, addr:fffff88003b3d640, len:48
+    pc:fffff800026da646  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0008d646, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1694691, pc:fffff800026da800, addr:fffff88003b3d640, len:48
+    pc:fffff800026da800  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0008d800, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1694706, pc:fffff800026da646, addr:fffff88003b3d5e0, len:48
+    pc:fffff800026da646  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0008d646, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1694853, pc:fffff80002945288, addr:fffff88003b3d630, len:64
+    pc:fffff80002945288  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f8288, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1694898, pc:fffff80002690ea6, addr:fffff88003b3d5f0, len:24
+    pc:fffff80002690ea6  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00043ea6, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1695024, pc:fffff80002826b45, addr:fffff88003b3d5b0, len:208
+    pc:fffff80002826b45  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 001d9b45, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1695310, pc:fffff80002943bf0, addr:fffff88003b3d610, len:80
+    pc:fffff80002943bf0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f6bf0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1695325, pc:fffff8000268fd08, addr:fffff88003b3d5e0, len:40
+    pc:fffff8000268fd08  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00042d08, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1695341, pc:fffff8000268de68, addr:fffff88003b3d580, len:48
+    pc:fffff8000268de68  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00040e68, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1695421, pc:fffff8000268de68, addr:fffff88003b3d5b0, len:48
+    pc:fffff8000268de68  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00040e68, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1695533, pc:fffff80002690dd0, addr:fffff88003b3d5e0, len:40
+    pc:fffff80002690dd0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00043dd0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1695572, pc:fffff8000269b0c2, addr:fffff88003b3d660, len:48
+    pc:fffff8000269b0c2  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0004e0c2, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1695708, pc:fffff800026d9cd4, addr:fffff88003b3d620, len:48
+    pc:fffff800026d9cd4  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0008ccd4, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1695840, pc:fffff80002689836, addr:fffff88003b3d860, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1695856, pc:fffff80002689836, addr:fffff88003b3d860, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1696152, pc:fffff800026877ab, addr:fffff88003b3daa0, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1696465, pc:fffff800026ee5a7, addr:fffff88003b3dd80, len:8
+    pc:fffff800026ee5a7  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000a15a7, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1696467, pc:fffff800026ee5ac, addr:fffff88003b3dc20, len:344
+    pc:fffff800026ee5ac  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000a15ac, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1696552, pc:fffff8000295f3a4, addr:fffff88003b3db40, len:96
+    pc:fffff8000295f3a4  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 003123a4, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1696583, pc:fffff8000295248b, addr:fffff88003b3d910, len:512
+    pc:fffff8000295248b  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0030548b, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1696818, pc:fffff80002938e00, addr:fffff88003b3d8c0, len:72
+    pc:fffff80002938e00  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002ebe00, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1696836, pc:fffff80002938e4a, addr:fffff88003b3d7f0, len:136
+    pc:fffff80002938e4a  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002ebe4a, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1696962, pc:fffff8000293e8bc, addr:fffff88003b3d8a0, len:64
+    pc:fffff8000293e8bc  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f18bc, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1697076, pc:fffff800026877ab, addr:fffff88003b3d8b0, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1697155, pc:fffff8000293249a, addr:fffff88003b3d8a0, len:80
+    pc:fffff8000293249a  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e549a, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1697203, pc:fffff80002935833, addr:fffff88003b3d820, len:80
+    pc:fffff80002935833  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e8833, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1697263, pc:fffff80002a1e46f, addr:fffff88003b3d830, len:64
+    pc:fffff80002a1e46f  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 003d146f, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1697326, pc:fffff80002826b45, addr:fffff88003b3d740, len:208
+    pc:fffff80002826b45  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 001d9b45, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1697714, pc:fffff8000291c49e, addr:fffff88003b3d8e0, len:32
+    pc:fffff8000291c49e  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002cf49e, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1697791, pc:fffff8000291c5ff, addr:fffff88003b3d880, len:136
+    pc:fffff8000291c5ff  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002cf5ff, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1697907, pc:fffff8000290b9ce, addr:fffff88003b3d8e0, len:32
+    pc:fffff8000290b9ce  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002be9ce, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1697917, pc:fffff80002689836, addr:fffff88003b3d8b0, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1697990, pc:fffff8000295eaa6, addr:fffff88003b3d8e0, len:32
+    pc:fffff8000295eaa6  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00311aa6, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1698041, pc:fffff8000293e40d, addr:fffff88003b3d8b0, len:48
+    pc:fffff8000293e40d  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f140d, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1698080, pc:fffff80002689836, addr:fffff88003b3d8e0, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1698099, pc:fffff800029585c4, addr:fffff88003b3d8c0, len:72
+    pc:fffff800029585c4  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0030b5c4, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1698114, pc:fffff80002941e90, addr:fffff88003b3d670, len:528
+    pc:fffff80002941e90  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f4e90, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1698169, pc:fffff80002936b27, addr:fffff88003b3d560, len:216
+    pc:fffff80002936b27  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e9b27, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1698227, pc:fffff80002935e6f, addr:fffff88003b3d4a0, len:120
+    pc:fffff80002935e6f  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e8e6f, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1698294, pc:fffff8000268de68, addr:fffff88003b3d440, len:48
+    pc:fffff8000268de68  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00040e68, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1698367, pc:fffff8000293261b, addr:fffff88003b3d470, len:32
+    pc:fffff8000293261b  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002e561b, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1698424, pc:fffff8000291f776, addr:fffff88003b3d470, len:32
+    pc:fffff8000291f776  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002d2776, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1698669, pc:fffff800026877ab, addr:fffff88003b3d610, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1698721, pc:fffff8000295d2f8, addr:fffff88003b3d8d0, len:32
+    pc:fffff8000295d2f8  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 003102f8, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1698870, pc:fffff8000293c246, addr:fffff88003b3d8b0, len:56
+    pc:fffff8000293c246  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002ef246, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1698939, pc:fffff80002689836, addr:fffff88003b3d880, len:32
+    pc:fffff80002689836  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003c836, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1699015, pc:fffff8000293e17a, addr:fffff88003b3d870, len:32
+    pc:fffff8000293e17a  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f117a, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1699134, pc:fffff8000268cda0, addr:fffff88003b3d830, len:80
+    pc:fffff8000268cda0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003fda0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1699252, pc:fffff8000268d2a8, addr:fffff88003b3d7b0, len:80
+    pc:fffff8000268d2a8  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000402a8, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1699448, pc:fffff800026877ab, addr:fffff88003b3d850, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1699485, pc:fffff800026877ab, addr:fffff88003b3d8b0, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1699641, pc:fffff800026ee5a7, addr:fffff88003b3dd80, len:8
+    pc:fffff800026ee5a7  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000a15a7, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1699643, pc:fffff800026ee5ac, addr:fffff88003b3dc20, len:344
+    pc:fffff800026ee5ac  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000a15ac, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1699725, pc:fffff80002938a14, addr:fffff88003b3db00, len:160
+    pc:fffff80002938a14  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002eba14, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1699764, pc:fffff80002938e4a, addr:fffff88003b3da30, len:136
+    pc:fffff80002938e4a  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002ebe4a, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1699903, pc:fffff80002942dec, addr:fffff88003b3da60, len:112
+    pc:fffff80002942dec  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f5dec, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1700013, pc:fffff80002ab013e, addr:fffff88003b3d9f0, len:48
+    pc:fffff80002ab013e  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0046313e, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1700096, pc:fffff800026850ea, addr:fffff88003b3d950, len:88
+    pc:fffff800026850ea  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000380ea, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1700180, pc:fffff80002685d4d, addr:fffff88003b3d8c0, len:88
+    pc:fffff80002685d4d  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00038d4d, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1700262, pc:fffff80002685943, addr:fffff88003b3d850, len:88
+    pc:fffff80002685943  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00038943, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1700321, pc:fffff800026e2dd0, addr:fffff88003b3d780, len:312
+    pc:fffff800026e2dd0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00095dd0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1700345, pc:fffff800026e30f0, addr:fffff88003b3d740, len:56
+    pc:fffff800026e30f0  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 000960f0, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1700639, pc:fffff8000295b594, addr:fffff8800280f920, len:32
+    pc:fffff8000295b594  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0030e594, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1700658, pc:fffff8000268b690, addr:fffff8800280f8f0, len:40
+    pc:fffff8000268b690  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003e690, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1700748, pc:fffff800026877ab, addr:fffff8800280f8c0, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1700807, pc:fffff80002965afb, addr:fffff8800280f930, len:32
+    pc:fffff80002965afb  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 00318afb, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1700901, pc:fffff80002940b76, addr:fffff8800280f930, len:32
+    pc:fffff80002940b76  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f3b76, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1700911, pc:fffff8000293deb2, addr:fffff8800280f8f0, len:48
+    pc:fffff8000293deb2  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 002f0eb2, pid: 1252, pname: gdi32_apitest.
+
+padding: rrid:1700937, pc:fffff800026877ab, addr:fffff8800280f890, len:80
+    pc:fffff800026877ab  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0003a7ab, pid: 1252, pname: gdi32_apitest.
+
+----[A]----:
+  rr_icount:1701081
+  pc:fffff80002958bd7  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0030bbd7, pid: 1252, pname: gdi32_apitest.
+  addr1:000000000008dff0	value:00 00 00 00 a0 f8 ff ff   addr2:0000000000000000	value:00 00 00 00 00 00 00 00 
+----[B]----:
+  rr_icount:1701081
+  pc:fffff80002958bd7  in module: \SystemRoot\system32\ntoskrnl.exe, base: fffff8000264d000, offset: 0030bbd7, pid: 1252, pname: gdi32_apitest.
+  addr1:000000000008dff0	value:00 00 00 00 aa aa aa aa   addr2:0000000000000000	value:00 00 00 00 00 00 00 00 
+A_point:1024, B_point:538

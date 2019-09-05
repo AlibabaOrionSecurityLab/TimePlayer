@@ -1,0 +1,311 @@
+Difference Found!------
+----padding history----
+padding,rrid:3687451783,pc:83c7c921, sp:a1c1bbfc,len:28
+    pc:83c7c921  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005f921, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687451851,pc:83c754e0, sp:a1c1bc14,len:16
+    pc:83c754e0  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 000584e0, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687451941,pc:83c2ddb8, sp:a1c0fbf8,len:4
+    pc:83c2ddb8  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00010db8, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687451942,pc:83c2ddbb, sp:a1c0fbdc,len:28
+    pc:83c2ddbb  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00010dbb, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687452101,pc:83c2dfb5, sp:a1c0fb74,len:72
+    pc:83c2dfb5  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00010fb5, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687452439,pc:83c7c785, sp:a1c0fc0c,len:16
+    pc:83c7c785  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005f785, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687452488,pc:840310e3, sp:a1c0fc04,len:12
+    pc:840310e3  in module: \SystemRoot\system32\halmacpi.dll, base: 8402c000, offset: 000050e3, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687452875,pc:83c52350, sp:a1c0fd34,len:72
+    pc:83c52350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035350, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687452928,pc:83c52592, sp:a1c0fd2c,len:8
+    pc:83c52592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035592, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687453674,pc:83c74838, sp:a1c0fcfc,len:24
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687453720,pc:83c7b012, sp:a1c0fca4,len:52
+    pc:83c7b012  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005e012, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687453858,pc:83c7b3fc, sp:a1c0fc6c,len:20
+    pc:83c7b3fc  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005e3fc, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687453980,pc:83c79b41, sp:a1c0fc14,len:60
+    pc:83c79b41  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005cb41, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687454085,pc:83c7c517, sp:a1c0fc34,len:36
+    pc:83c7c517  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005f517, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687454137,pc:83c7c91e, sp:a1c0fc18,len:4
+    pc:83c7c91e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005f91e, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687454138,pc:83c7c921, sp:a1c0fbfc,len:28
+    pc:83c7c921  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005f921, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687454206,pc:83c754e0, sp:a1c0fc14,len:16
+    pc:83c754e0  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 000584e0, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687454271,pc:83c2ddb8, sp:80fc1bb8,len:4
+    pc:83c2ddb8  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00010db8, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687454272,pc:83c2ddbb, sp:80fc1b9c,len:28
+    pc:83c2ddbb  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00010dbb, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687454431,pc:83c2dfb5, sp:80fc1b34,len:72
+    pc:83c2dfb5  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00010fb5, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687454793,pc:840310e3, sp:80fc1bc4,len:12
+    pc:840310e3  in module: \SystemRoot\system32\halmacpi.dll, base: 8402c000, offset: 000050e3, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687455087,pc:83c52350, sp:80fc1d34,len:72
+    pc:83c52350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035350, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687455140,pc:83c52592, sp:80fc1d20,len:20
+    pc:83c52592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035592, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687455913,pc:83e1dc01, sp:80fc1cac,len:28
+    pc:83e1dc01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00200c01, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687456093,pc:83c74838, sp:80fc1c98,len:12
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687456178,pc:83c4c93c, sp:80fc1ca0,len:16
+    pc:83c4c93c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0002f93c, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687456238,pc:83c7532f, sp:80fc1c5c,len:28
+    pc:83c7532f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005832f, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687456271,pc:840310e3, sp:80fc1c2c,len:12
+    pc:840310e3  in module: \SystemRoot\system32\halmacpi.dll, base: 8402c000, offset: 000050e3, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687456666,pc:83c52350, sp:80fc1d34,len:72
+    pc:83c52350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035350, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687456719,pc:83c52592, sp:80fc1d2c,len:8
+    pc:83c52592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035592, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687457465,pc:83c74838, sp:80fc1d00,len:20
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687457512,pc:83e1dbfe, sp:80fc1ca8,len:4
+    pc:83e1dbfe  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00200bfe, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687457513,pc:83e1dc01, sp:80fc1c8c,len:28
+    pc:83e1dc01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00200c01, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687457665,pc:83c7526a, sp:80fc1cd8,len:4
+    pc:83c7526a  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005826a, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687457666,pc:83c7526d, sp:80fc1ccc,len:12
+    pc:83c7526d  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005826d, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687457739,pc:83c76d11, sp:80fc1c78,len:28
+    pc:83c76d11  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00059d11, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687457854,pc:83c7532c, sp:80fc1ca0,len:4
+    pc:83c7532c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005832c, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687457855,pc:83c7532f, sp:80fc1c84,len:28
+    pc:83c7532f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005832f, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687457950,pc:83c7a457, sp:80fc1c30,len:4
+    pc:83c7a457  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005d457, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687457951,pc:83c7a45a, sp:80fc1bcc,len:100
+    pc:83c7a45a  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005d45a, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687458220,pc:83c4ca44, sp:80fc1c64,len:12
+    pc:83c4ca44  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0002fa44, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687458284,pc:83c754e0, sp:80fc1c64,len:16
+    pc:83c754e0  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 000584e0, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687458349,pc:83c2ddb8, sp:8e898738,len:4
+    pc:83c2ddb8  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00010db8, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687458350,pc:83c2ddbb, sp:8e89871c,len:28
+    pc:83c2ddbb  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00010dbb, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687458509,pc:83c2dfb5, sp:8e8986b4,len:72
+    pc:83c2dfb5  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00010fb5, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687458880,pc:840310e3, sp:8e898744,len:12
+    pc:840310e3  in module: \SystemRoot\system32\halmacpi.dll, base: 8402c000, offset: 000050e3, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687459229,pc:83c52350, sp:8e898d34,len:72
+    pc:83c52350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035350, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687459282,pc:83c52592, sp:8e898d30,len:4
+    pc:83c52592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035592, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687460119,pc:83e3c1bf, sp:8e898cd8,len:4
+    pc:83e3c1bf  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0021f1bf, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687460120,pc:83e3c1c2, sp:8e898cac,len:44
+    pc:83e3c1c2  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0021f1c2, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687460237,pc:83e7603f, sp:8e898c90,len:4
+    pc:83e7603f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0025903f, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687460238,pc:83e76042, sp:8e898c68,len:40
+    pc:83e76042  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00259042, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687460261,pc:83e6797e, sp:8e898c3c,len:24
+    pc:83e6797e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0024a97e, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687460737,pc:83c52350, sp:8e898d34,len:72
+    pc:83c52350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035350, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687460790,pc:83c52592, sp:8e898d20,len:20
+    pc:83c52592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035592, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687461315,pc:83e09ca0, sp:8e898cc4,len:12
+    pc:83e09ca0  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 001ecca0, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687461343,pc:83e1dbfe, sp:8e898c78,len:4
+    pc:83e1dbfe  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00200bfe, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687461344,pc:83e1dc01, sp:8e898c5c,len:28
+    pc:83e1dc01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00200c01, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687461529,pc:83d3b010, sp:8e898c44,len:60
+    pc:83d3b010  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011e010, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687461768,pc:83c94c5e, sp:8e898c58,len:16
+    pc:83c94c5e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00077c5e, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687461840,pc:83c78d05, sp:8e898c88,len:4
+    pc:83c78d05  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005bd05, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687461913,pc:83cc5012, sp:8e898c8c,len:20
+    pc:83cc5012  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 000a8012, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687461967,pc:83ca43b9, sp:8e898c70,len:4
+    pc:83ca43b9  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 000873b9, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687461968,pc:83ca43bc, sp:8e898c54,len:28
+    pc:83ca43bc  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 000873bc, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687462027,pc:83c7532c, sp:8e898c60,len:4
+    pc:83c7532c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005832c, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687462028,pc:83c7532f, sp:8e898c44,len:28
+    pc:83c7532f  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005832f, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687462061,pc:840310e3, sp:8e898c14,len:12
+    pc:840310e3  in module: \SystemRoot\system32\halmacpi.dll, base: 8402c000, offset: 000050e3, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687462391,pc:83c52350, sp:8e898d34,len:72
+    pc:83c52350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035350, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687462444,pc:83c52592, sp:8e898d28,len:12
+    pc:83c52592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035592, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687463191,pc:83c74838, sp:8e898ce4,len:44
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687463237,pc:83e1dc01, sp:8e898c74,len:28
+    pc:83e1dc01  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00200c01, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687463404,pc:83c74ae4, sp:8e898c64,len:84
+    pc:83c74ae4  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057ae4, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687463514,pc:83c7b3fc, sp:8e898c2c,len:20
+    pc:83c7b3fc  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005e3fc, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687463629,pc:83c7c517, sp:8e898bf4,len:36
+    pc:83c7c517  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005f517, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687463681,pc:83c7c91e, sp:8e898bd8,len:4
+    pc:83c7c91e  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005f91e, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687463682,pc:83c7c921, sp:8e898bbc,len:28
+    pc:83c7c921  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005f921, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687463750,pc:83c754e0, sp:8e898bd4,len:16
+    pc:83c754e0  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 000584e0, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687463815,pc:83c2ddb8, sp:80fc1c48,len:4
+    pc:83c2ddb8  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00010db8, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687463816,pc:83c2ddbb, sp:80fc1c2c,len:28
+    pc:83c2ddbb  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00010dbb, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687463975,pc:83c2dfb5, sp:80fc1bc4,len:72
+    pc:83c2dfb5  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00010fb5, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687464352,pc:840310e3, sp:80fc1c54,len:12
+    pc:840310e3  in module: \SystemRoot\system32\halmacpi.dll, base: 8402c000, offset: 000050e3, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687464467,pc:83e2bb03, sp:80fc1ca4,len:20
+    pc:83e2bb03  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0020eb03, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687464541,pc:83c94b39, sp:80fc1c5c,len:16
+    pc:83c94b39  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00077b39, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687464629,pc:83d3baa5, sp:80fc1c90,len:4
+    pc:83d3baa5  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011eaa5, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687464631,pc:83d3baad, sp:80fc1c44,len:76
+    pc:83d3baad  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011eaad, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687465083,pc:83c52350, sp:80fc1d34,len:72
+    pc:83c52350  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035350, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687465136,pc:83c52592, sp:80fc1d2c,len:8
+    pc:83c52592  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00035592, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687465882,pc:83c74838, sp:80fc1cfc,len:24
+    pc:83c74838  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00057838, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687465928,pc:83c7b012, sp:80fc1ca4,len:52
+    pc:83c7b012  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0005e012, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687466005,pc:83ca7ba5, sp:80fc1c6c,len:36
+    pc:83ca7ba5  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0008aba5, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687466034,pc:840310e3, sp:80fc1c3c,len:12
+    pc:840310e3  in module: \SystemRoot\system32\halmacpi.dll, base: 8402c000, offset: 000050e3, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687466170,pc:83c8ec2b, sp:80fc1d18,len:4
+    pc:83c8ec2b  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00071c2b, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687466172,pc:83c8ec31, sp:80fc1cf4,len:36
+    pc:83c8ec31  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00071c31, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687466284,pc:840310e3, sp:80fc1cc4,len:12
+    pc:840310e3  in module: \SystemRoot\system32\halmacpi.dll, base: 8402c000, offset: 000050e3, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687466347,pc:83d3baa5, sp:80fc1cb8,len:4
+    pc:83d3baa5  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011eaa5, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687466349,pc:83d3baad, sp:80fc1c6c,len:76
+    pc:83d3baad  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0011eaad, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687466549,pc:83c94b39, sp:80fc1c14,len:16
+    pc:83c94b39  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00077b39, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687466697,pc:83c4e580, sp:80fc1978,len:836
+    pc:83c4e580  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 00031580, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687466943,pc:83cc8573, sp:80fc1950,len:4
+    pc:83cc8573  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 000ab573, pid: 1808, pname: YoukuMediaCent
+
+padding,rrid:3687466944,pc:83cc8576, sp:80fc1934,len:28
+    pc:83cc8576  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 000ab576, pid: 1808, pname: YoukuMediaCent
+
+----[A]----:
+  rr_icount:3687467152
+  pc:83c49a6c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0002ca6c, pid: 1808, pname: YoukuMediaCent
+  addr1:057afc8c	value:00 00 00 00 00 00 00 00   addr2:80fc1a84	value:00 00 00 00 00 00 00 00 
+----[B]----:
+  rr_icount:3687467152
+  pc:83c49a6c  in module: \SystemRoot\system32\ntoskrnl.exe, base: 83c1d000, offset: 0002ca6c, pid: 1808, pname: YoukuMediaCent
+  addr1:057afc8c	value:aa aa aa aa 00 00 00 00   addr2:80fc1a84	value:aa aa aa aa 00 00 00 00 
+
